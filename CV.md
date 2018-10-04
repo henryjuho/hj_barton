@@ -1,4 +1,3 @@
-# Henry Juho Barton
 
 ---
 ## Academic Qualifications
@@ -8,7 +7,9 @@ ___
 
 "Towards understanding the mechanisms and forms of mutation in birds" 
 
-### MBiolSci Biology at the University of Sheffield (September 2011 – June 2015) - 1st
+### MBiolSci Biology at the University of Sheffield (September 2011 – June 2015) 
+
+Awarded a 1st. 
 
 ### Maidstone Grammar School, Maidstone (September 2003 – June 2011)
 
@@ -24,7 +25,7 @@ ___
 * Constructed custom bioinformatics pipelines
 * Proficient in Python, R, Shell, commandline Linux and Git
 * Written a number of custom Python modules: [anavar_utils](https://henryjuho.github.io/anavar_utils/), [WGAbed](https://henryjuho.github.io/WGAbed/), [python_qsub_wrapper](https://github.com/henryjuho/python_qsub_wrapper).
-* Extensive experience working on the University of Sheffield's two high perfomance computing clusters 'ShARC' and 'icberg'
+* Extensive experience working on the University of Sheffield's two high perfomance computing clusters 'ShARC' and 'iceberg'
 
 ### Masters research (September 2011 – June 2015)
 
@@ -65,7 +66,7 @@ ___
 
 ### Undergraduate parasitology practical (February 2018)
 
-* Ran a first year undergraduate practical on investigate endoparsite abundance in sheep, including project design, lab work, statistical analysis in R and report writing.
+* Ran a first year undergraduate practical on investigating endoparsite abundance in sheep, including project design, lab work, statistical analysis in R and report writing.
 
 ### Nerc Biomolecular Analysis Facility Bioinformatics Course (January 2018)
 
