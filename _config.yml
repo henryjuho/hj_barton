@@ -1,1 +1,7 @@
-remote_theme: https://github.com/jglovier/resume-template
+theme: jekyll-theme-minimal
+
+title: Henry J. Barton
+description: [A short description of your site's purpose]
+
+logo: profile_pic.png
+show_downloads: "false"
