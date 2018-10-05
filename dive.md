@@ -6,7 +6,7 @@ ___
 
 
 ___
-## Video
+## Media
 ___
 
 [![Watch the video](AberLasDeepExit.png)](https://vimeo.com/288444600)
