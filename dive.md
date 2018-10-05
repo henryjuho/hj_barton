@@ -4,7 +4,13 @@ ___
 
 ![](dive_history_env.png)
 
+
+___
+## Video
+___
+
 [![Watch the video](AberLasDeepExit.png)](https://vimeo.com/288444600)
+
 ___
 ## Diving qualifications
 ___
