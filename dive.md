@@ -4,7 +4,7 @@ ___
 
 ![](dive_history_env.png)
 
-![![Watch the video](AberLasDeepExit.png)](https://vimeo.com/288444600)
+[![Watch the video](AberLasDeepExit.png)](https://vimeo.com/288444600)
 ___
 ## Diving qualifications
 ___
