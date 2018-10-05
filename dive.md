@@ -4,6 +4,7 @@ ___
 
 ![](dive_history_env.png)
 
+![![Watch the video](AberLasDeepExit.png)](https://vimeo.com/288444600)
 ___
 ## Diving qualifications
 ___
@@ -21,3 +22,17 @@ ___
 ### PADI Advanced Open Water (August 2015)
 
 ### PADI Open Water (September 2014)
+
+___
+## Membership
+___
+
+### UKMC (2018 - present)
+
+UK Mine / Cave diving and exploration
+[Website](http://www.ukmine-cave.com/)
+
+### SUSAC (2017 - present)
+
+Sheffield University Sub Aqua Club - BSAC
+[Website](http://www.susac.com/)
