@@ -27,7 +27,7 @@ ___
 * Written a number of custom Python modules: [anavar_utils](https://henryjuho.github.io/anavar_utils/), [WGAbed](https://henryjuho.github.io/WGAbed/), [python_qsub_wrapper](https://github.com/henryjuho/python_qsub_wrapper).
 * Extensive experience working on the University of Sheffield's two high perfomance computing clusters 'ShARC' and 'iceberg'
 
-### Masters research (September 2011 – June 2015)
+### Masters research (September 2014 – June 2015)
 
 Worked with demography inference software PSMC and MSMC to investigate the possibility of generating recombination maps
 from a single genome with simulated data using ms, and compared the approach's application on the great tit reference genome
@@ -71,7 +71,7 @@ ___
 
 * Ran a first year undergraduate practical on investigating endoparsite abundance in sheep, including project design, lab work, statistical analysis in R and report writing.
 
-### Nerc Biomolecular Analysis Facility Bioinformatics Course (January 2018)
+### NERC Biomolecular Analysis Facility's Bioinformatics Course (January 2018)
 
 * Taught a session on SNP calling for PhD students and postdoctoral researchers from external institutions.
 
