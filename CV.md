@@ -29,8 +29,9 @@ ___
 
 ### Masters research (September 2011 – June 2015)
 
-investigating limitations of recombination 
-estimation algorithms for use on great tits
+Worked with demography inference software PSMC and MSMC to investigate the possibility of generating recombination maps
+from a single genome with simulated data using ms, and compared the approach's application on the great tit reference genome
+to the great tit linkage map.
 
 ### University of Sheffield Evolution and Behaviour Research Group (June – July 2013)
 
@@ -43,11 +44,13 @@ ___
 ## Publications
 ___
 
-**Barton, Henry J** & Zeng, Kai (2018). New methods for inferring the distribution of fitness effects for INDELs and SNPs. *Molecular biology and evolution*, 35, 1536-1546.
+**Barton, Henry J** & Zeng, Kai (2018b). The impact of natural selection on short insertion and deletion variation in the great tit genome. *Submitted*
+
+**Barton, Henry J** & Zeng, Kai (2018a). New methods for inferring the distribution of fitness effects for INDELs and SNPs. *Molecular biology and evolution*, 35, 1536-1546.
 
 Kim, J-M, Santure, AW, **Barton, Henry J**, Quinn, JL, Cole, Eleanor F, Great Tit HapMap Consortium, Visser, ME, Sheldon, BC, Groenen, MAM, van Oers, K & others (2018). A high-density SNP chip for genotyping great tit (Parus major) populations and its application to studying the genetic architecture of exploration behaviour. *Molecular ecology resources*, 9, 2987-3007.
 
-Corcoran, P\'adraic, Gossmann, Toni I, **Barton, Henry J**, Great Tit HapMap Consortium, Slate, Jon & Zeng, Kai (2017). Determinants of the efficacy of natural selection on coding and noncoding variability in two passerine species. *Genome Biology and Evolution*, 9, 2987-3007.
+Corcoran, Pádraic, Gossmann, Toni I, **Barton, Henry J**, Great Tit HapMap Consortium, Slate, Jon & Zeng, Kai (2017). Determinants of the efficacy of natural selection on coding and noncoding variability in two passerine species. *Genome Biology and Evolution*, 9, 2987-3007.
 
 ___
 ## Conference Presentations
