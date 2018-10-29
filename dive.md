@@ -17,7 +17,7 @@ ___
 
 ### RAID Deco 50 (May 2018)
 
-### RAID Cave 1 (December 2018)
+### RAID Cave 1 (December 2017)
 
 ### BSAC Sports Diver (crossover) (February 2017)
 
