@@ -56,6 +56,7 @@ ___
 ## Conference Presentations
 ___
 
+* 3MEE - 3rd Finnish Symposium for Molecular Ecology and Evolution (October 2018), invited student talk: ["Inferring the selective pressures acting on insertions and deletions in the great tit genome"](https://github.com/henryjuho/3mee_talk/blob/master/3mee_2018_hbarton.pdf)
 
 * Evolution 2018 (August 2018), talk: ["Inferring the selective pressures acting on insertions and deletions in the great tit genome"](https://github.com/henryjuho/evolution2018_talk/blob/master/evolution2018_hbarton.pdf)
 
