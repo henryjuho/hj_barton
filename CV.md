@@ -3,17 +3,13 @@
 ## Academic Qualifications
 ___
 
-### PhD in Biology at the University of Sheffield (October 2015 - present)
+### PhD in Evolutionary Biology at the University of Sheffield (October 2015 - present)
 
-"Towards understanding the mechanisms and forms of mutation in birds" 
+"Characterising the impact of directional forces on genomic variation" 
 
 ### MBiolSci Biology at the University of Sheffield (September 2011 – June 2015) 
 
 Awarded a 1st. 
-
-### Maidstone Grammar School, Maidstone (September 2003 – June 2011)
-
-A-Level Biology (A), Mathematics (A), and Physics (A), AS-Level Chemistry (B), and French (C), 11 GCSEs grades A*-B including English
 
 ___
 ## Research Experience 
@@ -44,9 +40,11 @@ ___
 ## Publications
 ___
 
-**Barton, Henry J** & Zeng, Kai (2018b). The impact of natural selection on short insertion and deletion variation in the great tit genome. *Submitted*
+**Barton, Henry J** & Zeng, Kai (2019). The impact of natural selection on short insertion and deletion variation in the great tit genome. *Genome biology and evolution*
 
-**Barton, Henry J** & Zeng, Kai (2018a). New methods for inferring the distribution of fitness effects for INDELs and SNPs. *Molecular biology and evolution*, 35, 1536-1546.
+Zeng, Kai, Jackson, Benjamin C & **Barton, Henry J** (In press). Methods for Estimating Demography and Detecting Between-Locus Differences in the Effective Population Size and Mutation Rate. *Molecular biology and evolution*
+
+**Barton, Henry J** & Zeng, Kai (2018). New methods for inferring the distribution of fitness effects for INDELs and SNPs. *Molecular biology and evolution*, 35, 1536-1546.
 
 Kim, J-M, Santure, AW, **Barton, Henry J**, Quinn, JL, Cole, Eleanor F, Great Tit HapMap Consortium, Visser, ME, Sheldon, BC, Groenen, MAM, van Oers, K & others (2018). A high-density SNP chip for genotyping great tit (Parus major) populations and its application to studying the genetic architecture of exploration behaviour. *Molecular ecology resources*, 9, 2987-3007.
 
@@ -55,6 +53,8 @@ Corcoran, Pádraic, Gossmann, Toni I, **Barton, Henry J**, Great Tit HapMap Cons
 ___
 ## Conference Presentations
 ___
+
+* Pop Group 52 (January 2019), talk: "Inferring the selective pressures acting on insertions and deletions in the great tit genome"
 
 * 3MEE - 3rd Finnish Symposium for Molecular Ecology and Evolution (October 2018), invited student talk: ["Inferring the selective pressures acting on insertions and deletions in the great tit genome"](https://github.com/henryjuho/3mee_talk/blob/master/3mee_2018_hbarton.pdf)
 
