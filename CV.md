@@ -42,7 +42,7 @@ ___
 
 **Barton, Henry J** & Zeng, Kai (2019). The impact of natural selection on short insertion and deletion variation in the great tit genome. *Genome biology and evolution*
 
-Zeng, Kai, Jackson, Benjamin C & **Barton, Henry J** (In press). Methods for Estimating Demography and Detecting Between-Locus Differences in the Effective Population Size and Mutation Rate. *Molecular biology and evolution*
+Zeng, Kai, Jackson, Benjamin C & **Barton, Henry J** (2018). Methods for Estimating Demography and Detecting Between-Locus Differences in the Effective Population Size and Mutation Rate. *Molecular biology and evolution*, 36 (2), 423-433.
 
 **Barton, Henry J** & Zeng, Kai (2018). New methods for inferring the distribution of fitness effects for INDELs and SNPs. *Molecular biology and evolution*, 35, 1536-1546.
 
