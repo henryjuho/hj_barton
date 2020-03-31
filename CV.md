@@ -91,7 +91,7 @@ ___
 
 * Co-designed and taught a python course aimed at departmental researchers wanting to get started with python.
 
-### Graduate teaching assistant (October 2015 - present)
+### Graduate teaching assistant (October 2015 - June 2019)
 
 * Over 240 hours demonstrating on undergraduate practicals over the course of the PhD
 
