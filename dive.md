@@ -6,7 +6,7 @@ in Sheffield, throughout which I had cultivated a strong interest in ancient DNA
 interest I came across a recently published paper by Chatters et al. (2014) that had analysed ancient mitochondrial DNA
 recovered from a ~12,000 year old skeleton at a depth of over 40m inside the Sac Actun cave system in Quintana Roo, 
 Mexico (the paper: <https://science.sciencemag.org/content/344/6185/750.full>). Although the results were not accepted
-by all, they sparked my interested in cave diving, and led to me signing up for my open water course, with a view to 
+by all, they sparked my interest in cave diving, and led to me signing up for my open water course, with a view to 
 working towards more technical diving. Something that is still a work in progress and illustrated in the figure
 below. 
 
