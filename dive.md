@@ -1,8 +1,6 @@
 ## Diving summary
 ___
 
-<p align="justify">
-
 I started diving in late 2014 whilst on holiday in Singapore. At the time I had just completed my master's degree 
 in Sheffield, throughout which I had cultivated a strong interest in ancient DNA and human evolution. In pursuing this 
 interest I came across a recently published paper by Chatters et al. (2014) that had analysed ancient mitochondrial DNA
@@ -11,8 +9,6 @@ Mexico (the paper: <https://science.sciencemag.org/content/344/6185/750.full>). 
 by all, they sparked my interested in cave diving, and lead to me signing up for my open water course, with a view to 
 working towards more technical diving. Something that is still a work in progress, which is illustrated in the figure
 below. 
-
-</p>
 
 ![](dive_data/dive_summaries.png)
 
