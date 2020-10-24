@@ -1,4 +1,4 @@
-| paper | cited by | year |
+| paper | cited | year |
 |:---------|:------:|:---------:|
 | **[A Study of Faster-Z Evolution in the Great Tit (Parus major)](https://academic.oup.com/gbe/article-abstract/12/3/210/5771331)**<br>Kai Hayes, **Henry J Barton**, Kai Zeng<br>Genome Biology and Evolution 12(3), 210-222 | 2 | 2020 |
 | **[Noncoding regions underpin avian bill shape diversification at macroevolutionary scales](https://genome.cshlp.org/content/30/4/553.short)**<br>Leeban Yusuf, Matthew C Heatley, Joseph PG Palmer, **Henry J Barton**, Christopher R Cooney, Toni I Gossmann<br>Genome Research 30(4), 553-565 | 0 | 2020 |
