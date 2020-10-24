@@ -1,0 +1,323 @@
+date,time_in,duration,max_depth,avg_depth,temp,start_pres,end_pres,volume,mix,buddies,location,site,lead,vis,water,dive_type,environment,course,equipment
+06_09_14,12:00,00:25,4,NA,30,200,130,11,21,George Lee,Tioman,,5,10,salt,course,seabed,OW,backmount single
+06_09_14,15:55,00:42,5.8,NA,28,200,100,11,21,George Lee,Tioman,,5,10,salt,course,seabed,OW,backmount single
+06_09_14,18:11,00:25,7.6,NA,28,NA,NA,11,21,George Lee,Tioman,,5,10,salt,course,seabed,OW,backmount single
+07_09_14,09:54,00:25,12.8,NA,28,NA,NA,11,21,George Lee,Tioman,,5,10,salt,course,seabed,OW,backmount single
+07_09_14,12:05,00:35,12.8,NA,28,200,70,11,21,George Lee,Tioman,,5,10,salt,course,seabed,OW,backmount single
+14_09_14,NA,00:56,9,NA,NA,200,50,11,21,Chris;Paul,Palau Hantu,,5,5,salt,leisure,reef,,backmount single
+14_09_14,NA,00:58,10,NA,NA,200,30,11,21,Chris;Paul,Palau Hantu,,5,4,salt,leisure,reef,,backmount single
+29_08_15,08:30,00:29,12.3,NA,NA,NA,NA,11,21,Julius Orongan,Palau Hantu,,5,3,salt,course,reef,AOW,backmount single
+29_08_15,10:09,00:40,13.5,NA,NA,NA,NA,11,21,Julius Orongan,Palau Hantu,,5,3,salt,course,reef,AOW,backmount single
+29_08_15,12:49,00:37,11.7,NA,NA,NA,NA,11,21,Julius Orongan,Palau Hantu,,5,3,salt,course,reef,AOW,backmount single
+29_08_15,13:56,00:49,11.2,NA,NA,NA,NA,11,21,Julius Orongan,Palau Hantu,,5,3,salt,course,reef,AOW,backmount single
+30_08_15,09:00,00:14,21.7,NA,NA,NA,NA,11,21,Julius Orongan,Palau Hantu,,5,3,salt,course,reef,AOW,backmount single
+30_08_15,10:00,00:58,9.8,NA,NA,190,60,11,21,Julius Orongan,Palau Hantu,,4,3,salt,course,reef,AOW,backmount single
+06_09_15,09:35,00:42,12.4,NA,29,190,50,11,21,Jean-Yves Deulavrin,Palau Hantu,,4,5,salt,leisure,reef,,backmount single
+06_09_15,11:10,00:38,11.4,NA,29,170,50,11,21,A Hakim,Palau Hantu,,4,4,salt,leisure,reef,,backmount single
+12_09_15,07:41,00:22,23.4,NA,28,210,80,11,21,Gary Savins,Bintan,Sarawak Maru,4,5,salt,leisure,wreck,,backmount single
+12_09_15,10:12,00:40,12.1,NA,28,NA,NA,11,21,Gary Savins,Bintan,,4,5,salt,leisure,reef,,backmount single
+12_09_15,13:32,00:49,6.4,NA,29,NA,NA,11,21,Gary Savins,Bintan,,4,5,salt,leisure,reef,,backmount single
+12_09_15,16:13,00:46,7.4,NA,29,NA,NA,11,21,Gary Savins,Bintan,,4,5,salt,leisure,reef,,backmount single
+13_09_15,08:14,00:39,25.5,NA,28,200,30,11,21,Gary Savins,Bintan,Sarawak Maru,4,2,salt,leisure,wreck,,backmount single
+13_09_15,10:24,00:39,8.8,NA,28,NA,NA,11,21,Gary Savins,Bintan,,4,7,salt,leisure,reef,,backmount single
+24_10_15,11:56,00:41,7.3,NA,13,220,80,12,21,Louise Kiyani,Carnforth,Capernwray,10,8,fresh,course,quarry,Drysuit,backmount single
+24_10_15,15:01,00:42,15.2,NA,13,230,90,12,21,Louise Kiyani,Carnforth,Capernwray,9,8,fresh,course,quarry,Drysuit,backmount single
+25_10_15,10:24,00:40,19.2,NA,13,NA,NA,12,21,Louise Kiyani,Carnforth,Capernwray,8,8,fresh,course,quarry,Deep,backmount single
+25_10_15,13:22,00:28,7.3,NA,13,NA,NA,12,21,Louise Kiyani,Carnforth,Capernwray,8,8,fresh,leisure,quarry,,backmount single
+25_10_15,15:06,00:40,16.8,NA,13,220,30,12,21,Louise Kiyani,Carnforth,Capernwray,8,8,fresh,course,quarry,Deep,backmount single
+02_11_15,10:54,00:38,21,NA,12,200,50,12,21,Louise Kiyani,,Stoney Cove,10,5,fresh,course,quarry,Deep,backmount single
+02_11_15,13:19,00:23,35.7,NA,10,220,110,12,21,Louise Kiyani,,Stoney Cove,10,5,fresh,course,quarry,Deep,backmount single
+02_11_15,14:55,00:24,7.4,NA,14,110,45,12,21,Mark Bray,,Stoney Cove,10,5,fresh,leisure,quarry,,backmount single
+14_11_15,11:23,00:38,16.8,NA,11,200,70,12,21,Matt Walton,Carnforth,Capernwray,10,8,fresh,course,quarry,Wreck,backmount single
+14_11_15,13:33,00:27,16.8,NA,11,230,100,12,21,Matt Walton,Carnforth,Capernwray,10,8,fresh,course,quarry,Wreck,backmount single
+14_11_15,15:29,00:27,7.9,NA,11,100,50,12,21,Matt Walton,Carnforth,Capernwray,12,7,fresh,course,quarry,Wreck,backmount single
+15_11_15,10:51,00:27,17.1,NA,11,NA,NA,12,21,Rachael Durham,Carnforth,Capernwray,12,8,fresh,leisure,quarry,,backmount single
+15_11_15,13:02,00:37,17.4,NA,12,NA,NA,12,21,Matt Walton,Carnforth,Capernwray,12,7,fresh,course,quarry,Wreck,backmount single
+15_11_15,15:18,00:40,17.1,NA,11,210,30,12,21,Rachael Durham,Carnforth,Capernwray,12,5,fresh,leisure,quarry,,backmount single
+11_12_15,12:37,00:41,16.2,NA,8,230,60,12,21,Rachael Durham,Carnforth,Capernwray,12,6,fresh,leisure,quarry,,backmount single
+11_12_15,15:22,00:38,17.4,NA,8,210,30,12,21,Rachael Durham,Carnforth,Capernwray,12,6,fresh,leisure,quarry,,backmount single
+15_01_16,11:42,00:38,17.4,NA,6,210,70,15,21,Rachael Durham,Carnforth,Capernwray,10,10,fresh,leisure,quarry,,backmount single
+15_01_16,15:09,00:37,17.4,NA,6,200,60,15,21,Rachael Durham,Carnforth,Capernwray,10,10,fresh,leisure,quarry,,backmount single
+12_03_16,16:25,00:24,17.1,NA,5,220,70,12,21,Steve Hird,Carnforth,Capernwray,12,5,fresh,course,quarry,Rescue,backmount single
+13_03_16,15:02,00:25,17.1,NA,5,220,70,12,21,Steve Hird,Carnforth,Capernwray,12,5,fresh,course,quarry,Rescue,backmount single
+16_07_16,11:11,00:45,11.6,NA,13,210,80,12,21,Chris Brown,Pembrokeshire,,14,5,salt,leisure,seabed,,backmount single
+16_07_16,14:08,00:50,9.5,NA,14,210,70,12,21,N Rowan,Pembrokeshire,Grambergen,14,5,salt,leisure,wreck,,backmount single
+17_07_16,09:21,00:29,31.7,NA,15,NA,NA,12,21,Chris Brown,Pembrokeshire,Sutton,14,4,salt,leisure,wreck,,backmount single
+17_07_16,12:10,00:49,12.5,NA,17,NA,NA,12,21,Chris Brown,Pembrokeshire,,14,6,salt,leisure,seabed,,backmount single
+17_09_16,14:28,02:02,5.2,NA,18,210,60,22,21,Garry Dallas,Chorley,Eccleston Delph,10,3,fresh,course,quarry,Sidemount,sidemount ali80s
+18_09_16,11:59,01:13,5.2,NA,18,NA,NA,22,21,Garry Dallas,Chorley,Eccleston Delph,10,2,fresh,course,quarry,Sidemount,sidemount ali80s
+18_09_16,16:21,00:38,7.3,NA,18,215,185,22,21,Garry Dallas,Chorley,Eccleston Delph,10,2,fresh,course,quarry,Sidemount,sidemount ali80s
+14_10_16,11:57,01:08,7.6,NA,15,150,52.5,24,21,Rachael Durham,Carnforth,Capernwray,7,10,fresh,training,quarry,,sidemount 12s
+14_10_16,15:32,01:03,18.3,NA,15,210,85,24,21,Rachael Durham,Carnforth,Capernwray,7,8,fresh,leisure,quarry,,sidemount 12s
+05_11_16,09:49,00:50,25.6,15.2,14,200,100,24,21,Mark Slater;Des Ryan,Plymouth,Scylla,9,10,salt,leisure,wreck,,sidemount 12s
+05_11_16,11:49,00:48,19.2,13.7,14,100,25,24,21,Mark Slater;Des Ryan,Plymouth,James Eagan Lane,9,10,salt,leisure,wreck,,sidemount 12s
+06_11_16,09:43,00:37,29.6,20.4,14,220,120,24,21,Mark Slater;Des Ryan,Plymouth,Persier,9,8,salt,leisure,wreck,,sidemount 12s
+06_11_16,11:55,00:51,15.5,13.4,14,120,35,24,21,Mark Slater;Des Ryan,Plymouth,Pleasure cruiser,9,6,salt,leisure,wreck,,sidemount 12s
+19_11_16,10:46,00:44,12.5,9.1,7,210,120,24,21,Martin Hayes,North Cave,8 Acre Lake,7,5,fresh,leisure,quarry,,sidemount 12s
+19_11_16,13:01,00:51,12.5,9.1,NA,120,40,24,21,Martin Hayes,North Cave,8 Acre Lake,7,5,fresh,leisure,quarry,,sidemount 12s
+26_11_16,11:03,00:39,11.6,8.2,6,220,155,24,21,Martin Hayes,North Cave,8 Acre Lake,8,3,fresh,leisure,quarry,,sidemount 12s
+26_11_16,13:27,00:37,12.8,8.2,6,155,90,24,21,Martin Hayes,North Cave,8 Acre Lake,8,2,fresh,training,quarry,,sidemount 12s
+03_12_16,11:01,00:56,12.5,8.8,5,225,115,24,21,Martin Hayes,North Cave,8 Acre Lake,8,4,fresh,leisure,quarry,,sidemount 12s
+03_12_16,13:35,00:42,12.2,8.8,5,115,55,24,21,Martin Hayes,North Cave,8 Acre Lake,8,4,fresh,leisure,quarry,,sidemount 12s
+17_12_16,11:36,00:52,12.8,8.5,5,240,135,24,21,Martin Hayes,North Cave,8 Acre Lake,8,3,fresh,training,quarry,,sidemount 12s
+17_12_16,14:21,00:29,11.3,8.2,5,135,95,24,21,Martin Hayes,North Cave,8 Acre Lake,8,1,fresh,leisure,quarry,,sidemount 12s
+27_12_16,14:12,00:48,25.9,19.5,9,220,85,24,21,Unknown,Dover,Unknown wreck,10,1,salt,leisure,wreck,,sidemount 12s
+08_01_17,11:23,00:33,11.6,8.2,3,180,120,24,21,Martin Hayes;Jade Richardson;Mark Slater,North Cave,8 Acre Lake,7,5,fresh,leisure,quarry,,sidemount 12s
+08_01_17,13:27,00:25,10.7,7.6,3,120,90,24,21,Martin Hayes;Jade Richardson,North Cave,8 Acre Lake,7,4,fresh,leisure,quarry,,sidemount 12s
+14_01_17,10:48,00:42,23.2,15.9,10,220,120,24,32,Martin Hayes;Jade Richardson;Jamie Wilson,Plymouth,Scylla,10,5,salt,leisure,wreck,,sidemount 12s
+14_01_17,12:54,00:39,17.4,13.1,9,120,50,24,32,Jamie Wilson,Plymouth,James Eagan Lane,10,6,salt,leisure,wreck,,sidemount 12s
+15_01_17,11:43,00:44,28,21.6,10,220,110,24,31,Jamie Wilson,Plymouth,Persier,10,8,salt,leisure,wreck,,sidemount 12s
+15_01_17,14:06,00:14,14.6,9.8,10,110,85,24,31,Jamie Wilson,Plymouth,,10,8,salt,leisure,reef,,sidemount 12s
+20_01_17,12:08,01:00,10.7,6.7,4,180,100,24,21,Garry Dallas,Chorley,Eccleston Delph,7,10,fresh,training,quarry,,sidemount 12s
+20_01_17,15:05,00:47,7,4.6,5,100,30,24,21,Garry Dallas,Chorley,Eccleston Delph,7,10,fresh,training,quarry,,sidemount 12s
+05_02_17,12:40,01:11,4.9,3.7,4,190,100,24,21,Garry Dallas;Fred Santos,Chorley,Eccleston Delph,7,7,fresh,training,quarry,,sidemount 12s
+06_02_17,12:20,01:14,5.2,3.7,4,200,100,24,21,Garry Dallas;Tom Chilcott;Fred Santos,Chorley,Eccleston Delph,7,7,fresh,training,quarry,,sidemount 12s
+06_02_17,16:06,00:40,4.6,3.4,4,210,145,24,21,Garry Dallas;Tom Chilcott;Fred Santos,Chorley,Eccleston Delph,7,7,fresh,training,quarry,,sidemount 12s
+11_02_17,11:19,00:46,12.8,9.5,2,145,65,24,21,Fred Santos,North Cave,8 Acre Lake,7,5,fresh,leisure,quarry,,sidemount 12s
+11_03_17,11:07,00:50,13.4,9.5,6,230,110,24,21,Jade Richardson,North Cave,8 Acre Lake,7,5,fresh,leisure,quarry,,sidemount 12s
+11_03_17,13:43,00:38,12.8,8.2,5,110,50,24,21,Jade Richardson,North Cave,8 Acre Lake,7,4,fresh,leisure,quarry,,sidemount 12s
+18_03_17,11:26,00:42,17.4,11,5,190,105,24,21,SUSAC;Emma Keeley;Beth Harvey,Carnforth,Capernwray,7,5,fresh,training,quarry,,sidemount 12s
+18_03_17,14:58,00:41,14.9,10.7,6,105,50,24,21,SUSAC;Emma Keeley;Beth Harvey,Carnforth,Capernwray,7,5,fresh,training,quarry,,sidemount 12s
+19_03_17,11:18,00:33,17.1,11,7,210,145,24,21,SUSAC;John Beaty;Beth Harvey,Carnforth,Capernwray,7,4,fresh,training,quarry,,sidemount 12s
+18_03_17,13:59,00:19,16.2,8.5,6,145,110,24,21,SUSAC;John Beaty;Beth Harvey,Carnforth,Capernwray,7,3,fresh,training,quarry,,sidemount 12s
+01_04_17,11:13,00:42,11,9.1,7,190,115,24,21,SUSAC;Emma Keeley;Beth Harvey,Carnforth,Capernwray,7,3,fresh,training,quarry,,sidemount 12s
+01_04_17,14:37,00:26,16.2,11,6,115,60,24,21,SUSAC;Emma Keeley;Beth Harvey,Carnforth,Capernwray,7,4,fresh,training,quarry,,sidemount 12s
+01_04_17,16:11,00:29,7.6,5.5,7,210,145,24,21,SUSAC;Emma Keeley;Beth Harvey,Carnforth,Capernwray,7,5,fresh,training,quarry,,sidemount 12s
+02_04_17,11:17,00:30,16.2,10.1,7,145,100,24,21,SUSAC;Emma Keeley;Beth Harvey;Laura Davidson,Carnforth,Capernwray,7,3,fresh,training,quarry,,sidemount 12s
+02_04_17,14:42,00:34,16.2,9.8,7,100,40,24,21,SUSAC;Emma Keeley;Beth Harvey,Carnforth,Capernwray,7,2,fresh,training,quarry,,sidemount 12s
+07_05_17,11:42,00:37,12.5,9.1,11,210,130,24,21,Martin Hayes,North Cave,8 Acre Lake,7,2,fresh,leisure,quarry,,sidemount 12s
+21_05_17,11:12,00:44,13.4,10.4,11,115,50,24,21,Martin Hayes;Jade Richardson,North Cave,8 Acre Lake,7,3,fresh,training,quarry,,sidemount 12s
+21_05_17,13:52,00:46,13.1,9.1,11,215,120,24,21,Martin Hayes;Jade Richardson;Des Ryan;Mags Ryan,North Cave,8 Acre Lake,7,3,fresh,training,quarry,,sidemount 12s
+29_05_17,10:59,00:47,12.8,8.8,12,125,50,24,21,Martin Hayes;Jade Richardson,North Cave,8 Acre Lake,7,6,fresh,training,quarry,,sidemount 12s
+29_05_17,13:28,00:54,13.1,9.1,12,220,115,24,21,Martin Hayes;Jade Richardson;Wayne Heelbeck,North Cave,8 Acre Lake,7,4,fresh,training,quarry,,sidemount 12s
+03_06_17,11:24,00:47,11.6,8.2,15,115,40,24,21,Jade Richardson,North Cave,8 Acre Lake,7,6,fresh,training,quarry,,sidemount 12s
+03_06_17,14:02,00:58,12.8,8.8,12,220,115,24,21,Jade Richardson,North Cave,8 Acre Lake,7,4,fresh,training,quarry,,sidemount 12s
+04_06_17,11:22,00:50,12.5,8.5,12,115,35,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,6,fresh,training,quarry,,sidemount 12s
+04_06_17,13:54,01:26,13.1,8.5,12,210,70,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,5,fresh,training,quarry,,sidemount 12s
+10_06_17,11:21,01:02,13.1,8.5,13,220,115,24,21,Jade Richardson,North Cave,8 Acre Lake,7,6,fresh,training,quarry,,sidemount 12s
+10_06_17,14:02,00:52,12.2,7.3,14,115,50,24,21,Jade Richardson,North Cave,8 Acre Lake,7,6,fresh,training,quarry,,sidemount 12s
+18_06_17,10:41,00:51,12.8,9.1,13,220,120,24,21,Wayne Heelbeck;Graham Atkinson,North Cave,8 Acre Lake,7,7,fresh,training,quarry,,sidemount 12s
+18_06_17,13:07,00:58,13.4,9.1,15,120,40,24,21,Wayne Heelbeck;Graham Atkinson,North Cave,8 Acre Lake,7,7,fresh,training,quarry,,sidemount 12s
+25_06_17,11:00,01:17,13.4,8.8,14,210,95,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,4,fresh,training,quarry,,sidemount 12s
+25_06_17,14:26,00:57,11,7.9,18,95,15,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,4,fresh,training,quarry,,sidemount 12s
+29_06_17,18:31,01:03,13.4,9.5,17,210,105,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,8,fresh,training,quarry,,sidemount 12s
+08_07_17,11:15,00:50,13.4,8.8,17,105,30,24,21,Martin Hayes;Jade Richardson,North Cave,8 Acre Lake,7,5,fresh,training,quarry,,sidemount 12s
+08_07_17,14:38,00:49,10.7,6.4,19,210,140,24,21,Martin Hayes;Jade Richardson,North Cave,8 Acre Lake,7,4,fresh,training,quarry,,sidemount 12s
+09_07_17,11:01,01:16,13.1,8.2,18,140,35,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,4,fresh,training,quarry,,sidemount 12s
+09_07_17,14:19,01:28,13.7,8.2,18,210,120,24,21,Martin Hayes;Jade Richardson,North Cave,8 Acre Lake,7,5,fresh,training,quarry,,sidemount 12s
+15_07_17,14:23,01:07,9.5,6.4,19,120,40,24,21,Martin Hayes;Jade Richardson,North Cave,8 Acre Lake,7,5,fresh,training,quarry,,sidemount 12s
+16_07_17,10:22,01:38,13.1,7.6,18,210,80,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,3,fresh,training,quarry,,sidemount 12s
+16_07_17,13:23,01:07,11.6,7.9,20,210,125,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,3,fresh,training,quarry,,sidemount 12s
+05_08_17,10:28,01:16,12.5,8.5,19,125,25,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,6,fresh,training,quarry,,sidemount 12s
+05_08_17,13:31,01:37,13.4,8.5,19,215,125,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,5,fresh,training,quarry,,sidemount 12s
+19_08_17,11:48,00:22,12.2,8.2,18,100,60,24,21,Quentin;Sarah;SUSAC,Carnforth,Capernwray,7,7,fresh,training,quarry,,sidemount 12s
+19_08_17,15:35,00:31,15.9,6.1,18,220,155,24,21,Quentin;Sarah;SUSAC,Carnforth,Capernwray,7,7,fresh,training,quarry,,sidemount 12s
+20_08_17,10:57,00:16,16.2,10.7,18,155,NA,24,21,Quentin;Sarah;SUSAC,Carnforth,Capernwray,7,6,fresh,training,quarry,,sidemount 12s
+20_08_17,13:30,00:23,16.8,7.6,18,NA,NA,24,21,Quentin;Sarah;SUSAC,Carnforth,Capernwray,7,6,fresh,training,quarry,,sidemount 12s
+25_08_17,15:17,01:10,23.8,14,10,210,85,24,21,Wayne Heelbeck;Graham Atkinson,Tamworth,Dost Hill,7,7,fresh,training,quarry,,sidemount 12s
+25_08_17,18:53,01:25,20.1,10.1,12,210,95,24,21,Wayne Heelbeck;Graham Atkinson,Tamworth,Dost Hill,7,3,fresh,training,quarry,,sidemount 12s
+31_08_17,18:16,01:24,13.1,8.2,18,220,100,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,5,fresh,training,quarry,,sidemount 12s
+03_09_17,11:21,00:57,17.4,14,14,200,NA,24,21,Jack Palmer;SUSAC,Lochaline,,10,6,salt,leisure,seabed,,sidemount 12s
+04_09_17,11:26,00:29,25,19.2,13,200,130,24,32,Alice Halsted;SUSAC,Lochaline,Breda,10,6,salt,leisure,wreck,,sidemount 12s
+04_09_17,14:57,00:43,32,20.1,13,220,120,24,28,Jack Palmer;James Hutton;SUSAC,Lochaline,Thesis,10,8,salt,leisure,wreck,,sidemount 12s
+05_09_17,11:00,01:02,25.6,17.4,13,200,80,24,32,James Hutton;SUSAC,Lochaline,Hispania,10,5,salt,leisure,wreck,,sidemount 12s
+05_09_17,14:58,00:30,38.7,21.6,14,200,125,24,26,James Hutton;SUSAC,Lochaline,,10,5,salt,leisure,seabed,,sidemount 12s
+06_09_17,10:22,00:50,30.5,21,14,200,NA,24,32,James Montgomery;SUSAC,Lochaline,Shuna,10,5,salt,leisure,wreck,,sidemount 12s
+06_09_17,14:45,01:19,23.2,14.9,14,200,70,24,27,James Montgomery;SUSAC,Lochaline,John Preston,10,5,salt,leisure,wreck,,sidemount 12s
+07_09_17,09:46,00:48,32.6,17.4,14,NA,NA,24,32,Michelle;SUSAC,Lochaline,Rhondo,10,4,salt,leisure,wreck,,sidemount 12s
+07_09_17,14:21,00:46,29.9,19.5,14,NA,NA,24,27,Michelle;SUSAC,Lochaline,Thesis,10,3,salt,leisure,wreck,,sidemount 12s
+08_09_17,13:08,00:51,23.5,16.8,14,200,110,24,32,Jack Palmer;SUSAC,Lochaline,Hispania,10,4,salt,leisure,wreck,,sidemount 12s
+08_09_17,16:32,00:44,32.3,19.2,14,195,100,24,27,Jack Palmer;SUSAC,Lochaline,Shuna,10,3,salt,leisure,wreck,,sidemount 12s
+14_09_17,18:24,01:14,13.4,8.8,16,205,105,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,6,fresh,training,quarry,,sidemount 12s
+17_09_17,11:22,01:02,12.5,8.2,15,105,30,24,21,Wayne Heelbeck;Martin Hayes;Jade Richardson,North Cave,8 Acre Lake,7,3,fresh,training,quarry,,sidemount 12s
+17_09_17,14:13,01:42,12.8,7.6,15,210,95,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,3,fresh,training,quarry,,sidemount 12s
+01_10_17,10:52,00:34,9.1,7.6,15,220,NA,24,21,Wayne Heelbeck;Graham Atkinson,North Cave,8 Acre Lake,7,6,fresh,training,quarry,,sidemount 12s
+01_10_17,11:34,00:51,13.1,9.1,15,NA,115,24,21,Wayne Heelbeck;Graham Atkinson;Ben Wright,North Cave,8 Acre Lake,7,6,fresh,training,quarry,,sidemount 12s
+01_10_17,13:58,01:10,13.7,7.9,15,220,140,24,21,Wayne Heelbeck;Graham Atkinson;Ben Wright;Martin Hayes;Jade Richardson,North Cave,8 Acre Lake,7,6,fresh,training,quarry,,sidemount 12s
+15_10_17,11:12,01:24,12.5,7.9,13,140,35,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,4,fresh,training,quarry,,sidemount 12s
+15_10_17,14:45,01:36,13.4,8.2,13,210,100,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,4,fresh,training,quarry,,sidemount 12s
+26_10_17,12:45,01:12,4.9,4,13,200,50,12,21,Phil;Garry Dallas,Chorley,Eccleston Delph,6,6,fresh,course,quarry,DM,backmount single
+26_10_17,16:24,00:21,4.9,3.7,13,200,150,12,21,Phil;Garry Dallas,Chorley,Eccleston Delph,7,6,fresh,course,quarry,DM,backmount single
+27_10_17,12:38,00:40,3.4,1.8,13,NA,NA,12,21,Phil;Garry Dallas,Chorley,Eccleston Delph,7,5,fresh,course,quarry,DM,backmount single
+27_10_17,15:53,00:17,1.8,1.2,13,200,150,12,21,Phil;Garry Dallas,Chorley,Eccleston Delph,10,5,fresh,course,quarry,DM,backmount single
+28_10_17,10:55,00:58,1.8,1.2,13,NA,NA,12,21,Phil;Garry Dallas,Chorley,Eccleston Delph,11,5,fresh,course,quarry,DM,backmount single
+28_10_17,14:32,01:08,7.3,5.8,13,200,50,12,21,Phil;Garry Dallas,Chorley,Eccleston Delph,8,5,fresh,course,quarry,DM,backmount single
+12_11_17,13:07,01:00,12.8,7.6,9,195,115,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,6,fresh,training,quarry,,sidemount 12s
+12_11_17,15:45,01:05,13.1,8.8,8,115,25,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,6,fresh,training,quarry,,sidemount 12s
+19_11_17,11:00,00:49,11.3,8.5,7,220,155,24,21,Wayne Heelbeck;Ben Wright,North Cave,8 Acre Lake,7,7,fresh,training,quarry,,sidemount 12s
+19_11_17,13:56,01:00,12.8,8.8,7,155,95,24,21,Wayne Heelbeck;Ben Wright,North Cave,8 Acre Lake,7,7,fresh,training,quarry,,sidemount 12s
+03_12_17,13:25,00:19,8.2,7,4,210,170,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,7,6,fresh,training,quarry,,sidemount 12s
+08_12_17,12:34,02:56,9.5,7.9,27,210,30,24,21,Garry Dallas,Isla Plana,Cueva del Agua,7,15,salt,course,cave,Cave1,sidemount 12s
+09_12_17,13:04,02:26,11.3,8.2,31,210,65,24,21,Garry Dallas,Isla Plana,Cueva del Agua,7,13,salt,course,cave,Cave1,sidemount 12s
+10_12_17,13:03,02:00,16.5,9.5,30,215,65,24,21,Garry Dallas,Isla Plana,Cueva del Agua,7,10,salt,course,cave,Cave1,sidemount 12s
+11_12_17,13:14,01:49,16.5,11.3,30,200,40,24,21,Garry Dallas,Isla Plana,Cueva del Agua,7,10,salt,course,cave,Cave1,sidemount 12s
+12_12_17,13:11,01:34,16.5,11.9,30,205,80,24,21,Garry Dallas,Isla Plana,Cueva del Agua,7,15,salt,course,cave,Cave1,sidemount 12s
+13_12_17,12:45,01:58,16.2,11,30,210,65,24,21,Garry Dallas,Isla Plana,Cueva del Agua,7,18,salt,course,cave,Cave1,sidemount 12s
+14_12_17,12:32,01:41,14.6,10.7,29,200,75,24,21,Garry Dallas,Isla Plana,Cueva del Agua,7,20,salt,leisure,cave,,sidemount 12s
+14_12_17,18:14,00:39,6.4,4.9,19,75,40,24,21,Garry Dallas;Michael DK,Isla Plana,Unknown mine,7,15,fresh,leisure,mine,,sidemount 12s
+23_12_17,11:34,00:50,12.8,9.8,2,170,95,24,21,Wayne Heelbeck;Graham Atkinson,North Cave,8 Acre Lake,7,15,fresh,training,quarry,,sidemount 12s
+23_12_17,14:14,00:35,11.3,9.1,2,95,45,24,21,Wayne Heelbeck;Graham Atkinson,North Cave,8 Acre Lake,7,15,fresh,training,quarry,,sidemount 12s
+13_01_18,11:48,00:57,12.2,8.5,2,205,130,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,8,15,fresh,training,quarry,,sidemount 12s
+21_01_18,13:00,00:57,4.9,3,8,225,155,24,21,Tom Chilcott,Bakewell,Holme Bank,8,30,fresh,leisure,mine,,sidemount 12s
+27_01_18,14:50,00:40,25.6,18.3,4,210,125,24,21,Tom Chilcott,Lake District,Hodge Close,8,8,fresh,leisure,mine,,sidemount 12s
+10_02_18,11:28,00:45,12.5,8.8,2,195,135,24,21,Wayne Heelbeck;Graham Atkinson,North Cave,8 Acre Lake,8,8,fresh,training,quarry,,sidemount 12s
+10_02_18,14:11,00:38,11.3,7.6,2,135,85,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,8,8,fresh,training,quarry,,sidemount 12s
+11_02_18,11:18,01:04,4.3,2.4,8,210,145,24,21,Tom Chilcott,Bakewell,Holme Bank,8,15,fresh,leisure,mine,,sidemount 12s
+25_02_18,11:51,00:48,13.7,10.7,2,220,70,12,21,Wayne Heelbeck,North Cave,8 Acre Lake,6,6,fresh,training,quarry,,backmount single
+11_03_18,12:37,00:48,11.6,8.2,2,210,50,12,21,Wayne Heelbeck;Graham Atkinson,North Cave,8 Acre Lake,8,4,fresh,training,quarry,,backmount single
+24_03_18,15:20,01:15,6.1,4.6,4,200,105,24,21,Garry Dallas;Dave Dolan;Phil;Rich;Lee,Chorley,Eccleston Delph,8,5,fresh,DMT,quarry,,sidemount 12s
+25_03_18,12:04,01:18,6.4,4.3,4,210,110,24,21,Garry Dallas;Rich;Lee,Chorley,Eccleston Delph,8,4,fresh,DMT,quarry,,sidemount 12s
+25_03_18,15:59,01:17,5.2,4,4,200,135,24,21,Garry Dallas;Rich;Lee,Chorley,Eccleston Delph,8,4,fresh,DMT,quarry,,sidemount 12s
+14_04_18,11:44,01:00,11,6.4,5,200,NA,24,21,Graham Atkinson,Carnforth,Capernwray,8,5,fresh,training,quarry,,sidemount 12s
+14_04_18,15:35,00:42,17.4,13.4,5,210,130,24,21,Wayne Heelbeck;Graham Atkinson,Carnforth,Capernwray,8,5,fresh,leisure,quarry,,sidemount 12s
+15_04_18,10:50,00:31,11.9,6.7,6,130,90,24,21,SUSAC;John Beaty;XueYin Tan,Carnforth,Capernwray,8,4,fresh,leisure,quarry,,sidemount 12s
+15_04_18,13:43,00:34,16.2,7.3,5,90,50,24,21,SUSAC;John Beaty;XueYin Tan,Carnforth,Capernwray,8,2,fresh,leisure,quarry,,sidemount 12s
+28_04_18,11:20,00:49,4,2.1,8,210,150,24,21,Nate Elliot,Bakewell,Holme Bank,8,15,fresh,leisure,mine,,sidemount 12s
+28_04_18,14:02,00:50,3.7,2.1,8,150,90,24,21,Nate Elliot,Bakewell,Holme Bank,8,15,fresh,leisure,mine,,sidemount 12s
+03_05_18,13:27,00:43,7.7,5,10,210,145,24,21,Carly Lynsdale,Carnforth,Capernwray,6,8,fresh,leisure,quarry,,sidemount 12s
+03_05_18,16:11,00:30,3.9,2.1,10,145,110,24,21,Carly Lynsdale,Carnforth,Capernwray,6,8,fresh,leisure,quarry,,sidemount 12s
+06_05_18,00:49,01:08,20.6,12.9,10,210,110,24,39,Nate Elliot;Nick Wright;Fee Crozier,Midlands,Carvery,8,15,fresh,leisure,mine,,sidemount 12s
+11_05_18,12:35,01:05,7.8,5.2,11,110,35,24,39,Carly Lynsdale,Carnforth,Capernwray,8,6,fresh,leisure,quarry,,sidemount 12s
+11_05_18,16:15,00:40,7.7,5.6,11,210,165,24,21,Carly Lynsdale,Carnforth,Capernwray,8,6,fresh,leisure,quarry,,sidemount 12s
+12_05_18,10:56,00:56,7.1,4.9,11,165,110,24,21,Carly Lynsdale,Carnforth,Capernwray,8,5,fresh,leisure,quarry,,sidemount 12s
+12_05_18,15:18,00:54,7.3,5.3,12,205,135,24,21,Carly Lynsdale,Carnforth,Capernwray,8,5,fresh,leisure,quarry,,sidemount 12s
+24_05_18,14:16,01:59,5.8,3.4,15,225,145,35,32_21,Phil Bridgeman;Garry Dallas,Chorley,Eccleston Delph,8,4,fresh,course,quarry,Deco50,sidemount 12s + ali80 stage
+25_08_18,12:57,01:39,6.4,4,15,NA,NA,35,21,Phil Bridgeman;Garry Dallas,Chorley,Eccleston Delph,8,4,fresh,course,quarry,Deco50,sidemount 12s + ali80 stage
+26_05_18,NA,01:32,20.7,11.3,9.5,NA,NA,35,22_49,Phil Bridgeman;Garry Dallas,Chepstow,NDAC,8,8,fresh,course,quarry,Deco50,sidemount 12s + ali80 stage
+27_05_18,08:26,01:12,21.3,13.2,9,185,90,35,21_49,Phil Bridgeman;Garry Dallas,Chepstow,NDAC,8,8,fresh,course,quarry,Deco50,sidemount 12s + ali80 stage
+27_05_18,12:19,01:01,30.2,14.4,8,215,135,35,21/19_50,Phil Bridgeman;Garry Dallas,Chepstow,NDAC,8,8,fresh,course,quarry,Deco50,sidemount 12s + ali80 stage
+27_05_18,16:18,00:42,51.6,20.2,7,175,113,35,21/19_50,Garry Dallas,Chepstow,NDAC,8,12,fresh,course,quarry,Deco50,sidemount 12s + ali80 stage
+03_06_18,00:24,01:14,16.6,10.1,10.5,210,137,35,33,Nate Elliot;Simon Guerney;Fee Crozier,Midlands,Carvery,8,15,fresh,leisure,mine,,sidemount 12s + ali80 stage
+10_06_18,12:36,01:37,17.1,7.5,10,210,123,35,28,Fee Crozier,Glyn Ceiriog,Aber Las,8,10,fresh,leisure,mine,,sidemount 12s + ali80 stage
+14_06_18,17:07,01:51,13.8,7.7,17,123,37,35,28,Wayne Heelbeck,North Cave,8 Acre Lake,8,2,fresh,training,quarry,,sidemount 12s + ali80 stage
+16_06_18,11:02,01:24,26.5,18.3,6,220,97,35,32,Adam Martindale;Mark Lovatt,Lake District,Hodge Close,8,12,fresh,leisure,mine,,sidemount 12s + ali80 stage
+28_06_18,17:29,01:51,11.3,6.9,18,97,20,35,32,Wayne Heelbeck,North Cave,8 Acre Lake,8,4,fresh,training,quarry,,sidemount 12s + ali80 stage
+30_06_18,11:27,01:14,26.9,16.8,7.8,210,80,24,32,Adam Martindale;Mark Lovatt,Glyn Ceiriog,Cambrian,8,15,fresh,leisure,mine,,sidemount 12s
+05_07_18,17:45,02:09,13.4,7.1,18,207,120,35,21_50,Wayne Heelbeck,North Cave,8 Acre Lake,8,5,fresh,training,quarry,,sidemount 12s + ali80 stage
+08_07_18,11:27,00:59,17.5,9,9,210,130,24,21,Karen Garner;Toni Douthwaite;Chris Ryan,Glyn Ceiriog,Aber Las,8,15,fresh,leisure,mine,,sidemount 12s
+14_07_18,12:42,01:09,18,11.3,10,210,100,24,21,Nate Elliot,Glyn Ceiriog,Aber Las,8,15,fresh,leisure,mine,,sidemount 12s
+14_07_18,16:13,01:00,11.6,8.6,10,130,57,35,21_50,Nate Elliot,Glyn Ceiriog,Aber Las,8,13,fresh,leisure,mine,,sidemount 12s + ali80 stage
+26_07_18,12:22,01:10,11.6,5,21,210,155,24,21,Carly Lynsdale,North Cave,8 Acre Lake,8,3,fresh,leisure,quarry,,sidemount 12s
+26_07_18,15:40,00:50,4.9,1.5,23.6,155,125,24,21,Carly Lynsdale,North Cave,8 Acre Lake,8,3,fresh,leisure,quarry,,sidemount 12s
+28_07_18,12:13,01:13,18.1,11.8,9.6,200,123,35,21,Karen Garner,Glyn Ceiriog,Aber Las,8,12,fresh,leisure,mine,,sidemount 12s + ali80 stage
+04_08_18,09:24,01:10,22,13.4,9,203,133,35,21,Adam Martindale;Mark Lovatt,South Wales,Dinas Silica,8,30,fresh,leisure,mine,,sidemount 12s + ali80 stage
+26_08_18,11:07,01:25,13.4,10.3,7,200,70,24,21,Mark Lovatt,Wales,Croesor,8,25,fresh,leisure,mine,,sidemount 12s + ali80 stage
+01_09_18,12:15,00:58,19.3,15.6,9.7,217,143,35,32,Nate Elliot,Glyn Ceiriog,Aber Las,8,10,fresh,leisure,mine,,sidemount 12s + ali80 stage
+01_09_18,13:40,00:53,11.3,7.5,9.5,140,80,24,32,Nate Elliot,Glyn Ceiriog,Aber Las,8,10,fresh,leisure,mine,,sidemount 12s
+08_09_18,10:30,01:55,13.2,9.9,7.2,217,113,35,36,Adam Martindale;Mark Lovatt,Wales,Croesor,8,30,fresh,leisure,mine,,sidemount 12s + ali80 stage
+16_09_18,10:45,01:10,2.6,1.4,9.7,110,77,35,36,Solo,Bakewell,Holme Bank,8,15,fresh,leisure,mine,,sidemount 12s + ali80 stage
+14_10_18,12:36,00:56,19.3,15,9.6,205,115,24,32,Nate Elliot,Glyn Ceiriog,Aber Las,8,15,fresh,leisure,mine,,sidemount 12s
+04_11_18,12:14,01:10,12.5,7.7,10,140,75,35,32,Wayne Heelbeck,North Cave,8 Acre Lake,8,6,fresh,training,quarry,,sidemount 12s + ali80 stage
+25_11_18,12:09,01:05,2.9,1.8,9.2,210,160,24,21,Nate Elliot;Adele Penney,Bakewell,Holme Bank,8,15,fresh,leisure,mine,,sidemount 12s
+02_12_18,11:27,00:42,6.8,5.1,9.7,160,110,24,21,Carly Lynsdale,Carnforth,Capernwray,8,8,fresh,training,quarry,,sidemount 12s
+02_12_18,14:56,00:34,16.9,8.6,9.7,110,70,24,21,Carly Lynsdale,Carnforth,Capernwray,8,5,fresh,training,quarry,,sidemount 12s
+09_12_18,11:30,00:43,7.3,4.7,9.3,200,160,24,21,Carly Lynsdale;Wayne Heelbeck,Carnforth,Capernwray,8,6,fresh,training,quarry,,sidemount 12s
+09_12_18,15:06,00:52,7.9,5.4,9.2,160,100,24,21,Carly Lynsdale;Wayne Heelbeck,Carnforth,Capernwray,8,6,fresh,training,quarry,,sidemount 12s
+14_12_18,09:48,01:15,15,10.6,26.4,220,100,24,21,Garry Dallas,Isla Plana,Cueva del Agua,6,6,salt,course,cave,Cave2,sidemount 12s
+14_12_18,14:28,01:05,16.4,10.5,25.2,200,130,24,21,Garry Dallas,Isla Plana,Cueva del Agua,6,6,salt,course,cave,Cave2,sidemount 12s
+15_12_18,10:29,01:53,16.2,10.8,23.4,200,50,24,21,Garry Dallas,Isla Plana,Cueva del Agua,6,5,salt,course,cave,Cave2,sidemount 12s
+15_12_18,15:59,01:15,13.9,8.8,25.2,195,100,24,21,Garry Dallas,Isla Plana,Cueva del Agua,5,4,salt,course,cave,Cave2,sidemount 12s
+16_12_18,12:40,01:40,16.2,11.4,24.1,200,65,24,21,Garry Dallas,Isla Plana,Cueva del Agua,5,8,salt,course,cave,Cave2,sidemount 12s
+17_12_18,12:07,02:43,16.3,10.2,23.4,200,73,35,21,Garry Dallas;Victor Tovar,Isla Plana,Cueva del Agua,5,15,salt,course,cave,Cave2,sidemount 12s + ali80 stage
+18_12_18,12:18,02:30,16.1,9.9,23.5,190,63,35,21,Garry Dallas,Isla Plana,Cueva del Agua,5,20,salt,course,cave,Cave2,sidemount 12s + ali80 stage
+19_12_18,12:40,02:48,16.3,9.8,30,200,76,35,21,Garry Dallas,Isla Plana,Cueva del Agua,5,20,salt,course,cave,Cave2,sidemount 12s + ali80 stage
+18_01_19,16:13,01:07,3.2,1.5,9.5,220,150,24,21,Nate Elliot;Adele Penney,Bakewell,Holme Bank,8,10,fresh,leisure,mine,,sidemount 12s
+20_01_19,11:27,00:59,17.2,14.8,7,150,55,24,21,Wayne Heelbeck,Carnforth,Capernwray,8,10,fresh,training,quarry,,sidemount 12s
+09_02_19,13:42,02:00,12,6.6,9.5,220,110,35,21,Karen Garner,Glyn Ceiriog,Aber Las,8,10,fresh,leisure,mine,,sidemount 12s + ali80 stage
+10_02_19,12:59,00:46,12.6,8.9,4.7,125,60,24,21,Wayne Heelbeck,North Cave,8 Acre Lake,8,4,fresh,training,quarry,,sidemount 12s
+24_02_19,10:03,01:09,17.9,11.3,6.5,160,86,35,21,James Montgomery;SUSAC,Carnforth,Capernwray,8,7,fresh,training,quarry,,sidemount 12s + ali80 stage
+24_02_19,13:34,00:57,17.2,7.2,6.7,86,40,35,21,James Montgomery;SUSAC,Carnforth,Capernwray,8,7,fresh,training,quarry,,sidemount 12s + ali80 stage
+16_03_19,11:00,01:25,10.5,7.3,7.5,200,140,35,21,Wayne Heelbeck,North Cave,8 Acre Lake,8,2,fresh,training,quarry,,sidemount 12s + ali80 stage
+16_03_19,14:18,00:50,11.5,6.7,7.9,140,NA,35,21,Wayne Heelbeck,North Cave,8 Acre Lake,8,2,fresh,training,quarry,,sidemount 12s + ali80 stage
+24_03_19,12:06,01:32,26.8,15.1,7.3,210,90,35,21,Karen Garner;Mark Lovatt,Glyn Ceiriog,Cambrian,8,10,fresh,leisure,mine,,sidemount 12s + ali80 stage
+31_03_19,10:58,00:42,7.7,5.5,8.5,210,170,24,21,Carly Lynsdale,Carnforth,Capernwray,8,6,fresh,training,quarry,,sidemount 12s
+06_04_19,11:00,00:49,9.8,5.7,9.4,170,100,24,21,Carly Lynsdale,North Cave,8 Acre Lake,6,2,fresh,training,quarry,,sidemount 12s
+06_04_19,13:43,00:50,11.6,7.4,9,100,50,24,21,Carly Lynsdale,North Cave,8 Acre Lake,6,2,fresh,training,quarry,,sidemount 12s
+14_04_19,11:05,01:06,12.8,6.8,9.5,210,110,24,21,Carly Lynsdale,North Cave,8 Acre Lake,6,3,fresh,training,quarry,,sidemount 12s
+28_04_19,10:31,01:15,12,7.2,10.6,110,30,24,21,Carly Lynsdale,North Cave,8 Acre Lake,6,3,fresh,training,quarry,,sidemount 12s
+04_05_19,12:50,01:13,3.3,1.6,9.5,190,150,24,21,Wayne Heelbeck,Bakewell,Holme Bank,6,15,fresh,leisure,mine,,sidemount 12s
+18_05_19,12:52,01:11,27.9,11.7,8.6,210,130,35,21,Karen Garner,Ingleton,Hurtle Pot,6,5,fresh,leisure,cave,,sidemount 12s + ali80 stage
+18_05_19,15:33,00:50,27.9,15.1,8.5,140,60,24,21,Karen Garner,Ingleton,Hurtle Pot,6,5,fresh,leisure,cave,,sidemount 12s
+04_06_19,12:03,00:52,17.9,10,9.5,190,50,11,33,Wayne Heelbeck,Glyn Ceiriog,Aber Las,6,15,fresh,leisure,mine,,sidemount 12s + ali80 stage
+04_06_19,15:00,00:52,20.2,16.2,9.6,205,130,24,33,Wayne Heelbeck,Glyn Ceiriog,Aber Las,6,15,fresh,leisure,mine,,sidemount 12s
+07_07_19,14:37,00:50,19,9,9.5,200,135,24,21,Teppo Lallukka;Edd Stockdale,Turku,Hilloinen,6,3,fresh,leisure,quarry,,sidemount 12s
+04_08_19,10:16,01:12,37,21.8,13,200,90,35,26_53,John Beatty;SUSAC,Scapa Flow,Dresden,9.5,10,salt,leisure,wreck,,sidemount 12s + ali80 stage
+04_08_19,14:01,00:55,34.7,23.5,13,220,140,35,29_51,John Beatty;SUSAC,Scapa Flow,Coln,9.5,10,salt,leisure,wreck,,sidemount 12s + ali80 stage
+05_08_19,08:53,01:01,33.3,22,12.9,NA,NA,35,29_51,Alana Dempsey;Alex Muhl-Richardson;SUSAC,Scapa Flow,Brummer,9.5,4,salt,leisure,wreck,,sidemount 12s + ali80 stage
+05_08_19,13:01,00:45,39.3,24,13.7,NA,NA,35,29_51,Alex Muhl-Richardson;SUSAC,Scapa Flow,Kronprinz Wilhelm,9.5,5,salt,leisure,wreck,,sidemount 12s + ali80 stage
+06_08_19,08:55,00:58,41.5,23.9,13,230,110,35,21/30_50,Alana Dempsey;Emma Keeley;SUSAC,Scapa Flow,Markgraf,9.5,4,salt,leisure,wreck,,sidemount 12s + ali80 stage
+06_08_19,13:29,01:12,37.3,23,13,200,90,35,31/15_50,Alana Dempsey;Emma Keeley;SUSAC,Scapa Flow,Konig,9.5,4,salt,leisure,wreck,,sidemount 12s + ali80 stage
+07_08_19,08:50,01:09,38.1,23.1,12.6,NA,NA,35,NA,James Montgomery;SUSAC,Scapa Flow,Bayern Turrets,9.5,4,salt,leisure,wreck,,sidemount 12s + ali80 stage
+07_08_19,13:17,00:59,26.7,20.5,13.4,NA,NA,24,33,James Montgomery;SUSAC,Scapa Flow,Karlsruhe,9.5,4,salt,leisure,wreck,,sidemount 12s
+08_08_19,08:27,01:12,41.8,22.4,13.2,NA,NA,35,21/30_50,Alana Dempsey;Emma Keeley;SUSAC,Scapa Flow,Markgraf,9.5,7,salt,leisure,wreck,,sidemount 12s + ali80 stage
+08_08_19,13:20,01:06,34.5,23.2,12.7,NA,NA,35,30/10_50,Alana Dempsey;Emma Keeley;SUSAC,Scapa Flow,Coln,9.5,7,salt,leisure,wreck,,sidemount 12s + ali80 stage
+09_08_19,08:53,00:57,36.6,22.9,13.2,NA,NA,35,25/4_50,Jack Whiteley;Michelle Tinloi;SUSAC,Scapa Flow,unknown,9.5,7,salt,leisure,wreck,,sidemount 12s + ali80 stage
+09_08_19,12:46,01:16,36.2,21.4,13.2,NA,NA,35,24_50,Jack Whiteley;Michelle Tinloi;SUSAC,Scapa Flow,Konig,9.5,7,salt,leisure,wreck,,sidemount 12s + ali80 stage
+01_10_19,18:06,00:59,28.7,12.1,5.7,200,110,24,21,Niko Nieminen;Tatu P�ivinen,Lohja,Ojamo,6,6,fresh,training,quarry,,sidemount 12s
+05_10_19,10:36,00:45,28.4,12.1,5.7,190,120,24,21,Mikko Mustonen,Lohja,Ojamo,6,10,fresh,training,quarry,,sidemount 12s
+05_10_19,12:12,00:41,24.2,13.1,6.7,120,50,24,21,Mikko Mustonen,Lohja,Ojamo,6,10,fresh,training,quarry,,sidemount 12s
+12_10_19,10:16,00:57,26.5,15.3,6,200,110,24,21,Mikko Mustonen,Lohja,Ojamo,6,12,fresh,training,quarry,,sidemount 12s
+24_10_19,17:38,01:13,33.8,12.5,5.2,210,100,24,21,Tatu Paivinen,Lohja,Ojamo,6,10,fresh,training,quarry,,sidemount 12s
+03_11_19,11:54,01:10,24.2,15.4,6.5,190,113,35,21,Tatu Paivinen,Lohja,Ojamo,6,10,fresh,training,quarry,,sidemount 12s + ali80 stage
+17_11_19,18:49,00:51,31.1,20,5,185,60,24,32,Jukka Tiemaki;Tomi Mustonen,Lohja,Ojamo,6,20,fresh,course,mine,L1 Ojamo,sidemount 12s + ali80 stage
+24_11_19,12:09,01:10,29.4,20.1,5.3,200,100,35,32_50,Yogi Lundstrom,Lohja,Ojamo,6,15,fresh,leisure,mine,,sidemount 12s + ali80 stage
+01_12_19,12:06,01:24,30.2,20.5,5,166,85,46,32_50,Yogi Lundstrom,Lohja,Ojamo,6,25,fresh,leisure,mine,,sidemount 12s + ali80 stage x2
+07_12_19,11:55,01:22,29.9,20.6,5,175,88,46,32_50,Yogi Lundstrom,Lohja,Ojamo,6,8,fresh,leisure,mine,,sidemount 12s + ali80 stage x2
+12_12_19,17:29,01:22,30,21.1,4.4,170,83,46,32_50,Petri Laaksonen,Lohja,Ojamo,6,20,fresh,leisure,mine,,sidemount 12s + ali80 stage x2
+18_01_20,11:57,01:54,32.2,21.1,3.7,180,50,46,32_50,Yogi Lundstrom,Lohja,Ojamo,6,30,fresh,leisure,mine,,sidemount 12s + ali80 stage x2
+25_01_20,13:46,01:04,29.8,18.9,3.5,200,125,46,32_50,Tatu Paivinen,Lohja,Ojamo,6,12,fresh,leisure,mine,,sidemount 12s + ali80 stage x2
+16_02_20,12:24,01:11,39.1,20.9,2.9,200,115,46,30_50,Tatu Paivinen,Lohja,Ojamo,6,18,fresh,leisure,mine,,sidemount 12s + ali80 stage x2
+07_03_20,10:56,00:45,20.3,9,2,180,140,24,28,Yogi Lundstrom;Teppo Lallukka,Iso-Melkutin,Iso-Melkutin,6,5,fresh,leisure,lake,,sidemount 12s
+15_03_20,13:39,01:08,29.1,19.6,3,165,87,46,28_50,Tatu Paivinen,Lohja,Ojamo,6,15,fresh,leisure,mine,,sidemount 12s + ali80 stage x2
+02_04_20,16:46,01:51,12.7,7.8,4.7,180,130,3,100,Pasi Lammi;Heidi-Maaret Ilomaki,Porvoo,Vesso,4,6,fresh,course,quarry,JJ MOD 1,JJ CCR
+04_04_20,12:11,00:59,15.3,11.8,3.6,250,145,24,23,Tatu Paivinen,Hanko,Antonio,6,4,salt,leisure,wreck,,sidemount 12s
+05_04_20,11:24,01:31,15.5,10.5,4.5,180,120,3,100,Pasi Lammi;Heidi-Maaret Ilomaki;Mikko Mustonen;Niina Palm,Porvoo,Vesso,4,6,fresh,course,quarry,JJ MOD 1,JJ CCR
+05_04_20,14:58,01:15,14.7,9.3,4.6,120,90,3,100,Pasi Lammi;Heidi-Maaret Ilomaki;Mikko Mustonen,Porvoo,Vesso,4,6,fresh,course,quarry,JJ MOD 1,JJ CCR
+08_04_20,17:37,01:33,15.6,11.7,5.5,170,120,3,100,Pasi Lammi;Heidi-Maaret Ilomaki,Porvoo,Vesso,3.5,5,fresh,course,quarry,JJ MOD 1,JJ CCR
+11_04_20,11:40,01:46,15.1,10.7,5.5,120,70,3,100,Pasi Lammi;Heidi-Maaret Ilomaki;Mikko Mustonen,Porvoo,Vesso,3.5,5,fresh,course,quarry,JJ MOD 1,JJ CCR
+11_04_20,15:32,01:19,15.9,10.8,5.5,70,30,3,100,Pasi Lammi;Heidi-Maaret Ilomaki;Mikko Mustonen,Porvoo,Vesso,3.5,5,fresh,course,quarry,JJ MOD 1,JJ CCR
+19_04_20,11:35,00:58,31.1,16,3,180,140,3,100,Pasi Lammi;Heidi-Maaret Ilomaki;Mikko Mustonen,Asikkala,Bridge,3.5,8,fresh,course,lake,JJ MOD 1,JJ CCR
+19_04_20,14:21,00:50,30.4,14.6,3.2,140,120,3,100,Pasi Lammi;Heidi-Maaret Ilomaki;Mikko Mustonen,Asikkala,Bridge,3.5,8,fresh,course,lake,JJ MOD 1,JJ CCR
+26_04_20,11:31,01:28,13.2,7.7,5.2,200,130,3,100,Heidi-Maaret Ilomaki,Iso-Melkutin,Iso-Melkutin,3.6,6,fresh,training,lake,,JJ CCR
+26_04_20,15:20,01:04,25.7,13.8,5,130,100,3,100,Heidi-Maaret Ilomaki,Iso-Melkutin,Iso-Melkutin,3.6,6,fresh,training,lake,,JJ CCR
+02_05_20,12:07,01:14,15.6,11,6.2,170,130,3,100,Tatu Paivinen,Porvoo,Vesso,3,1,fresh,training,quarry,,JJ CCR
+06_05_20,18:25,01:54,21.8,9,5.2,120,40,3,100,Heidi-Maaret Ilomaki;Mikko Mustonen;Niina Palm,Iso-Melkutin,Iso-Melkutin,2.5,5,fresh,training,lake,,JJ CCR
+10_05_20,12:20,00:52,36.7,19.1,5.5,160,120,3,100,Heidi-Maaret Ilomaki;Mikko Mustonen;Niina Palm,Asikkala,Bridge,2.5,7,fresh,leisure,lake,,JJ CCR
+10_05_20,15:21,00:53,37,18.5,5.5,120,100,3,100,Heidi-Maaret Ilomaki,Asikkala,Bridge,2.5,8,fresh,leisure,lake,,JJ CCR
+12_05_20,18:34,02:02,25.7,10.5,5.3,85,10,3,100,Heidi-Maaret Ilomaki;Mikko Mustonen;Niina Palm,Iso-Melkutin,Iso-Melkutin,2.5,8,fresh,training,lake,,JJ CCR
+17_05_20,11:35,01:26,36.7,17.8,6.2,180,130,3,100,Mikko Mustonen;Mattias Roslund,Asikkala,Bridge,2.5,8,fresh,leisure,lake,,JJ CCR
+17_05_20,14:44,01:11,36.7,19,6.1,130,90,3,100,Mikko Mustonen;Mattias Roslund,Asikkala,Bridge,2.5,8,fresh,leisure,lake,,JJ CCR
+21_05_20,12:41,02:01,19.2,9.6,5.8,170,110,3,100,Heidi-Maaret Ilomaki,Iso-Melkutin,Iso-Melkutin,2.5,6,fresh,training,lake,,JJ CCR
+21_05_20,17:21,01:34,25.5,12.6,5.6,110,60,3,100,Heidi-Maaret Ilomaki,Iso-Melkutin,Iso-Melkutin,2.5,6,fresh,training,lake,,JJ CCR
+23_05_20,11:48,01:40,36.8,17.6,7.2,180,140,3,100,Heidi-Maaret Ilomaki;Mikko Mustonen,Asikkala,Bridge,2.5,8,fresh,leisure,lake,,JJ CCR
+23_05_20,15:35,00:56,36.9,19.5,7.3,140,100,3,100,Heidi-Maaret Ilomaki,Asikkala,Bridge,2.5,8,fresh,leisure,lake,,JJ CCR
+03_06_20,18:36,01:49,24.9,8.7,5.7,100,20,3,100,Heidi-Maaret Ilomaki,Iso-Melkutin,Iso-Melkutin,2.5,8,fresh,training,lake,,JJ CCR
+06_06_20,13:24,01:48,36.6,16.4,8,170,100,3,100,Heidi-Maaret Ilomaki;Eero,Asikkala,Bridge,2.5,10,fresh,leisure,lake,,JJ CCR
+10_06_20,18:51,01:46,23,11.1,5.7,180,100,3,100,Heidi-Maaret Ilomaki;Mikko Mustonen;Niina Palm,Iso-Melkutin,Iso-Melkutin,2.5,10,fresh,training,lake,,JJ CCR
+13_06_20,10:56,02:05,20,11.4,8,150,70,3,100,Heidi-Maaret Ilomaki;Mikko Mustonen,Turku,Hilloinen,2.5,20,fresh,leisure,quarry,,JJ CCR
+18_06_20,18:47,01:43,24.9,11.7,5.7,200,140,3,100,Heidi-Maaret Ilomaki,Iso-Melkutin,Iso-Melkutin,2.5,10,fresh,training,lake,,JJ CCR
+01_07_20,18:38,01:52,24.5,11.3,5.7,130,60,3,100,Heidi-Maaret Ilomaki,Iso-Melkutin,Iso-Melkutin,2.5,15,fresh,training,lake,,JJ CCR
+04_07_20,12:10,01:12,29.4,20.6,5.1,190,150,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,20,fresh,leisure,mine,,JJ CCR
+04_07_20,15:39,01:02,32.4,20.9,5,150,120,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,20,fresh,leisure,mine,,JJ CCR
+09_07_20,16:56,02:07,25,10.1,6,160,80,3,100,Heidi-Maaret Ilomaki,Iso-Melkutin,Iso-Melkutin,2.5,10,fresh,training,lake,,JJ CCR
+12_07_20,12:39,00:10,20.2,9.2,7.5,170,160,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,8,fresh,leisure,quarry,,JJ CCR
+12_07_20,12:57,00:40,36.2,18.9,5,160,130,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,8,fresh,leisure,quarry,,JJ CCR
+12_07_20,16:03,00:54,29.2,21.1,5.2,130,90,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,15,fresh,leisure,mine,,JJ CCR
+16_07_20,17:47,00:57,10.4,7,10.2,90,40,3,100,Carly Lynsdale,Iso-Melkutin,Iso-Melkutin,2.5,8,fresh,training,lake,,JJ CCR
+22_07_20,17:03,01:04,10.3,7.2,10.2,180,140,3,100,Carly Lynsdale,Iso-Melkutin,Iso-Melkutin,2.5,6,fresh,training,lake,,JJ CCR
+25_07_20,11:03,01:23,33.6,15.8,6.5,150,110,3,100,Heidi-Maaret Ilomaki,Saimaa,Tornator,2.5,15,fresh,leisure,lake,,JJ CCR
+25_07_20,17:01,01:12,32.3,21.4,6.2,110,70,3,100,Heidi-Maaret Ilomaki,Saimaa,Tornator,2.5,10,fresh,leisure,wreck,,JJ CCR
+26_07_20,10:31,01:26,38.8,17.9,6.3,170,130,3,100,Heidi-Maaret Ilomaki;Ari Linna,Saimaa,Tornator,2.5,12,fresh,leisure,lake,,JJ CCR
+26_07_20,14:28,00:48,28.9,20,6.6,130,100,3,100,Heidi-Maaret Ilomaki,Saimaa,Tornator,2.5,6,fresh,leisure,lake,,JJ CCR
+04_08_20,18:57,00:57,10.2,6.8,11.7,100,50,3,100,Carly Lynsdale,Iso-Melkutin,Iso-Melkutin,2.5,6,fresh,training,lake,,JJ CCR
+20_08_20,18:16,01:12,8.8,7.6,13.3,180,140,3,100,Carly Lynsdale,Iso-Melkutin,Iso-Melkutin,2.5,6,fresh,training,lake,,JJ CCR
+22_08_20,12:43,01:12,29.4,20.9,5.2,180,130,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,10,fresh,training,mine,,JJ CCR
+22_08_20,16:53,01:32,39.7,20.8,5,130,90,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,10,fresh,leisure,mine,,JJ CCR
+29_08_20,14:12,01:29,37.9,20.8,5.1,150,110,3,100,Heidi-Maaret Ilomaki,Kaatiala,Kaatiala,2.5,20,fresh,leisure,mine,,JJ CCR
+29_08_20,17:39,01:20,38.2,21.7,5.5,110,NA,3,100,Heidi-Maaret Ilomaki,Kaatiala,Kaatiala,2.5,20,fresh,leisure,mine,,JJ CCR
+30_08_20,13:41,01:54,37.3,21.3,5.2,170,115,3,100,Heidi-Maaret Ilomaki,Kaatiala,Kaatiala,2.5,20,fresh,leisure,mine,,JJ CCR
+09_09_20,18:27,02:12,20.8,8.3,6.7,115,30,3,100,Heidi-Maaret Ilomaki,Iso-Melkutin,Iso-Melkutin,2.5,6,fresh,leisure,lake,,JJ CCR
+13_09_20,12:34,01:04,36.2,21.9,5,190,140,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,10,fresh,leisure,mine,,JJ CCR
+13_09_20,16:20,00:59,29.6,20.6,5.2,140,110,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,10,fresh,leisure,mine,,JJ CCR
+19_09_20,13:08,00:57,29.7,21,5.1,180,140,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,8,fresh,leisure,mine,,JJ CCR
+19_09_20,16:28,01:33,29,19.1,5.1,140,90,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,8,fresh,leisure,mine,,JJ CCR
