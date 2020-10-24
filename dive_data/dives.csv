@@ -321,3 +321,9 @@ date,time_in,duration,max_depth,avg_depth,temp,start_pres,end_pres,volume,mix,bu
 13_09_20,16:20,00:59,29.6,20.6,5.2,140,110,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,10,fresh,leisure,mine,,JJ CCR
 19_09_20,13:08,00:57,29.7,21,5.1,180,140,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,8,fresh,leisure,mine,,JJ CCR
 19_09_20,16:28,01:33,29,19.1,5.1,140,90,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,8,fresh,leisure,mine,,JJ CCR
+24_09_20,18:36,02:15,24.8,9.6,6,150,80,3,100,Heidi-Maaret Ilomaki,Iso-Melkutin,Iso-Melkutin,2.5,8,fresh,training,lake,,JJ CCR
+11_10_20,11:16,00:52,27.4,15.3,13.5,180,130,3,100,Tatu Paivinen,Porkkalanniemi,Baltic ,2.5,6,salt,leisure,wreck,,JJ CCR
+15_10_20,17:58,02:04,25.1,9.8,6.2,150,90,3,100,Heidi-Maaret Ilomaki;Maunu,Iso-Melkutin,Iso-Melkutin,2.5,8,fresh,training,lake,,JJ CCR
+17_10_20,10:01,02:08,13.6,8.4,9.2,170,110,3,100,Pasi Lammi,Iso-Melkutin,Iso-Melkutin,2.5,8,fresh,course,lake,JJ MOD 2,JJ CCR
+17_10_20,14:17,01:22,23.1,14.4,6.2,110,70,3,100,Pasi Lammi;Heidi-Maaret Ilomaki;Mikko Mustonen,Iso-Melkutin,Iso-Melkutin,2.5,8,fresh,course,lake,JJ MOD 2,JJ CCR
+22_10_20,19:14,01:04,40.3,18.5,5.2,150,110,3,100,Pasi Lammi;Heidi-Maaret Ilomaki,Salo,Illo,2.5,8,fresh,course,quarry,JJ MOD 2,JJ CCR
