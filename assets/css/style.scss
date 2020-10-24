@@ -7,8 +7,13 @@
   max-width: 75%;
 }
 
+.wrapper {
+  width:960px;
+  margin:0 auto;
+}
+
 header {
-  width:210px;
+  width:220px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -20,9 +25,8 @@ section {
   padding-bottom:50px;
 }
 
-
 footer {
-  width:210px;
+  width:220px;
   float:left;
   position:fixed;
   bottom:50px;
