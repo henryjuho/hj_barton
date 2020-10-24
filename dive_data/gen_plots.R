@@ -81,9 +81,12 @@ hours_env_config <- ggplot(total_dat, aes(x=environment, y=dec_hours, fill=confi
 sac <- ggplot(subset(dive_dat, config!='CCR'), aes(x=config, y=sac)) +
   geom_boxplot() + th + labs(x='\n', y='Surface air consumption (lpm) - OC')
 
-png('dive_summaries.png', width=12, height=6, res=320, units='in')
+png('dive_summaries.png', width=12, height=6.5, res=320, units='in')
 
 layout <- rbind(c(1,1,1,1,1,1,1,1),
+                c(1,1,1,1,1,1,1,1),
+                c(1,1,1,1,1,1,1,1),
+                c(2,2,3,3,4,4,5,6),
                 c(2,2,3,3,4,4,5,6))
 
 grid.arrange(hist, hours_env_config, depths_env, depths, sac, rmv, layout_matrix=layout)
