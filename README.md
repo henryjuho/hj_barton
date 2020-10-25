@@ -4,7 +4,7 @@ ___
 Since June 2019 I have been a postdoctoral researcher in Prof. Craig Primmer's group 
 ([lab web page](https://www.helsinki.fi/en/researchgroups/evolution-conservation-and-genomics)) at the University of 
 Helsinki, Finland. I am involved in a number of projects, leveraging genetic datasets to address population genetic and
-evolutionary questions in Atlantic salmon (*Salmo salar*)
+evolutionary questions in Atlantic salmon (*Salmo salar*).
 
 I completed my PhD and master's in Dr. Kai Zeng's lab ([lab web page](http://zeng-lab.group.shef.ac.uk/wordpress/))
 at the University of Sheffield, UK. My work in Sheffield was focused on quantifying the impact of directional forces, 
