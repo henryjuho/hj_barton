@@ -16,7 +16,15 @@ below.
 ## Media
 ___
 
-{% include vimeoPlayer.html id=288444600 %}
+ <div class="row">
+  <div class="column">
+    {% include vimeoPlayer.html id=288444600 %}
+  </div>
+  <div class="column">
+    {% include vimeoPlayer.html id=288444600 %}
+  </div>
+</div> 
+
 
 ## Diving qualifications
 ___
