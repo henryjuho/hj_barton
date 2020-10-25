@@ -13,13 +13,16 @@ below.
 ![](dive_data/dive_summaries.png)
 
 
-## Media
+## Diving clips
+
+Some videos from some of the dives I've been on.
 ___
 
  <div class="row">
   <div class="column">
-    {% include vimeoPlayer.html id=288444600 %}
+    {% include vimeoPlayer.html id=307767854 %}
   </div>
+  <div class="between"></div>
   <div class="column">
     {% include vimeoPlayer.html id=288444600 %}
   </div>
