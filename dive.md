@@ -24,11 +24,16 @@ my Cave 2 course.<br>
 {% include youtubePlayer.html id=pfWyHCT_D_0 %}
 
 <br><br>Another video from Mark Lovatt, showing a dive in in Croesor Mine in Wales, I think my favourite mine to date.<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NLaDXpMYp7M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NLaDXpMYp7M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br><br>A video I put together from a dive in Aber Las mine in Wales.<br>
-{% include vimeoPlayer.html id=288444600 %}
 
+<div class="center">
+    <iframe title="vimeo-player" src="https://player.vimeo.com/video/288444600" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 ## Diving qualifications
