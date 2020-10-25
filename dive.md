@@ -16,28 +16,15 @@ below.
 ## Diving clips
 ___
 
-Some videos from some of the dives I've been on.
-
  <div class="row">
   <div class="column">
-    <div class="iframe-container">
-      <iframe
-          src="https://player.vimeo.com/video/307767854"
-          webkitallowfullscreen
-          mozallowfullscreen
-          allowfullscreen>
-      </iframe>
-    </div>
+    A video by my cave instructor Garry Dallas, from a dive in Cueva del Agua in Isla Plana, Spain after I had completed
+    my Cave 2 course.
+    {% include vimeoPlayer.html id=307767854 %}
   </div>
   <div class="column">
-    <div class="iframe-container">
-      <iframe
-          src="https://player.vimeo.com/video/288444600"
-          webkitallowfullscreen
-          mozallowfullscreen
-          allowfullscreen>
-      </iframe>
-    </div>
+    A video I put together from a dive in Aber Las mine in Wales.
+    {% include vimeoPlayer.html id=288444600 %}
   </div>
 </div> 
 
