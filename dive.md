@@ -20,10 +20,16 @@ Some videos from some of the dives I've been on.
 
  <div class="row">
   <div class="column">
-    {% include vimeoPlayer.html id=307767854 %}
+    ---
+    vimeoId: 307767854
+    ---
+    {% include vimeoPlayer.html id=page.vimeoId %}
   </div>
   <div class="column">
-    {% include vimeoPlayer.html id=288444600 %}
+    ---
+    vimeoId: 288444600
+    ---
+    {% include vimeoPlayer.html id=page.vimeoId %}
   </div>
 </div> 
 
