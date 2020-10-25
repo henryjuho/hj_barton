@@ -20,16 +20,24 @@ Some videos from some of the dives I've been on.
 
  <div class="row">
   <div class="column">
-    ---
-    vimeoId: 307767854
-    ---
-    {% include vimeoPlayer.html id=page.vimeoId %}
+    <div class="iframe-container">
+      <iframe
+          src="https://player.vimeo.com/video/307767854"
+          webkitallowfullscreen
+          mozallowfullscreen
+          allowfullscreen>
+      </iframe>
+    </div>
   </div>
   <div class="column">
-    ---
-    vimeoId: 288444600
-    ---
-    {% include vimeoPlayer.html id=page.vimeoId %}
+    <div class="iframe-container">
+      <iframe
+          src="https://player.vimeo.com/video/288444600"
+          webkitallowfullscreen
+          mozallowfullscreen
+          allowfullscreen>
+      </iframe>
+    </div>
   </div>
 </div> 
 
