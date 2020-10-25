@@ -41,6 +41,8 @@ ___
   </div>
 </div> 
 
+{% include youtubePlayer.html id=NLaDXpMYp7M %}
+
 ## Diving qualifications
 ___
 
