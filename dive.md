@@ -1,7 +1,7 @@
 ## Diving summary
 ___
 
-I started diving in late 2014 whilst on holiday in Singapore. At the time I had just completed my master's degree 
+I started diving in late 2014 whilst on holiday in Singapore. At the time I had just completed my undergraduate degree 
 in Sheffield, throughout which I had cultivated a strong interest in ancient DNA and human evolution. In pursuing this 
 interest I came across a recently published paper by Chatters et al. (2014) that had analysed ancient mitochondrial DNA
 recovered from a ~12,000 year old skeleton at a depth of over 40m inside the Sac Actun cave system in Quintana Roo, 
