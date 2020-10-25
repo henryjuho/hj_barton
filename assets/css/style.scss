@@ -27,6 +27,8 @@ header {
 section {
   width:700px;
   float:right;
+  resize: horizontal;
+  overflow: auto;
   padding-bottom:50px;
 }
 
