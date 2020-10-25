@@ -57,15 +57,15 @@ footer {
 .iframe-container {
   overflow: hidden;
   /* 16:9 aspect ratio */
-  padding-bottom: 56.25%;
+  padding-top: 56.25%;
   position: relative;
-  height: 0;
-  max-width: 100%;
 }
 
-.iframe-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%; }
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
