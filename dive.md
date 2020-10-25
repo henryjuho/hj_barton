@@ -16,7 +16,7 @@ below.
 ## Media
 ___
 
-[![Watch the video](AberLasDeepExit.png)](https://vimeo.com/288444600)
+{% include vimeoPlayer.html id=288444600 %}
 
 ## Diving qualifications
 ___
