@@ -24,7 +24,6 @@ my Cave 2 course.<br>
 {% include youtubePlayer.html id=pfWyHCT_D_0 %}
 
 <br><br>Another video from Mark Lovatt, showing a dive in in Croesor Mine in Wales, I think my favourite mine to date.<br>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NLaDXpMYp7M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br>A video I put together from a dive in Aber Las mine in Wales.<br>
