@@ -16,32 +16,20 @@ below.
 ## Diving clips
 ___
 
- <div class="row">
-  <div class="column">
-    A video by my cave instructor Garry Dallas, from a dive in Cueva del Agua in Isla Plana, Spain after I had completed
-    my Cave 2 course.<br>
-    {% include vimeoPlayer.html id=307767854 %}
-  </div>
-  <div class="column">
-    A video I put together from a dive in Aber Las mine in Wales.<br><br>
-    {% include vimeoPlayer.html id=288444600 %}
-  </div>
-</div> 
+A video by my cave instructor Garry Dallas, from a dive in Cueva del Agua in Isla Plana, Spain after I had completed
+my Cave 2 course.<br><br>
 
- <div class="row">
-  <div class="column">
-    A video by Mark Lovatt of a dive in Dinas Silica in South Wales<br><br>
-    {% include youtubePlayer.html id=pfWyHCT_D_0 %}
-    <br>
-  </div>
-  <div class="column">
-    Another video from Mark Lovatt, showing a dive in in Croesor Mine in Wales, I think my favourite mine to date.<br>
-    {% include youtubePlayer.html id=NLaDXpMYp7M %}
-    <br>
-  </div>
-</div> 
+{% include vimeoPlayer.html id=307767854 %}
 
+A video I put together from a dive in Aber Las mine in Wales.<br><br>
+{% include vimeoPlayer.html id=288444600 %}
+  
+A video by Mark Lovatt of a dive in Dinas Silica in South Wales<br><br>
+{% include youtubePlayer.html id=pfWyHCT_D_0 %}
+
+Another video from Mark Lovatt, showing a dive in in Croesor Mine in Wales, I think my favourite mine to date.<br>
 {% include youtubePlayer.html id=NLaDXpMYp7M %}
+
 
 ## Diving qualifications
 ___
