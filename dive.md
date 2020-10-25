@@ -18,22 +18,20 @@ ___
 
 A video by my cave instructor Garry Dallas, from a dive in Cueva del Agua in Isla Plana, Spain after I had completed
 my Cave 2 course.<br>
-{% include vimeoPlayer.html id=307767854 %}
+<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/307767854" width="560" height="315" frameborder="0" allowfullscreen></iframe></p>
   
 <br><br>A video by Mark Lovatt of a dive in Dinas Silica in South Wales<br>
-{% include youtubePlayer.html id=pfWyHCT_D_0 %}
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/pfWyHCT_D_0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <br><br>Another video from Mark Lovatt, showing a dive in in Croesor Mine in Wales, I think my favourite mine to date.<br>
 
-<div class="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/NLaDXpMYp7M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/NLaDXpMYp7M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
 
 <br><br>A video I put together from a dive in Aber Las mine in Wales.<br>
 
-<div class="center">
-    <iframe title="vimeo-player" src="https://player.vimeo.com/video/288444600" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-</div>
+<p align="center"><iframe title="vimeo-player" src="https://player.vimeo.com/video/288444600" width="560" height="315" frameborder="0" allowfullscreen></iframe></p>
+
 
 
 ## Diving qualifications
