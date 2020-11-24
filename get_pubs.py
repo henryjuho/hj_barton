@@ -18,10 +18,19 @@ def main():
             cites = pub.bib['cites']
 
             authors = pub.bib['author'].replace('Henry J Barton', '**Henry J Barton**').replace(' and', ',')
+            authors = authors.replace('Henry Barton', '**Henry J Barton**')
+
+            # try volume issue and page extract
+            try:
+                vol = pub.bib['volume']
+                issue = pub.bib['number']
+                pages = pub.bib['pages']
+            except KeyError:
+                vol, issue, pages = 'NA', 'NA', 'NA'
 
             paper_str = '**[{title}]({link})**<br>{authors}<br>{journal} {vol}({issue}), {pages}'.format(
                 title=pub.bib['title'], link=pub.bib['url'], authors=authors, journal=pub.bib['journal'],
-                vol=pub.bib['volume'], issue=pub.bib['number'], pages=pub.bib['pages']
+                vol=vol, issue=issue, pages=pages
             )
 
         except KeyError:
