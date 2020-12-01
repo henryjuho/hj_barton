@@ -332,5 +332,7 @@ date,time_in,duration,max_depth,avg_depth,temp,start_pres,end_pres,volume,mix,bu
 07_11_20,16:38,01:08,46.4,19.4,5.7,NA,NA,3,100,Pasi Lammi;Tommi Saviran,Ylojarvi,Haveri,2.5,8,fresh,course,quarry,JJ MOD 2,JJ CCR
 08_11_20,10:32,01:33,56.4,20.6,5.7,150,100,3,100,Pasi Lammi;Tommi Saviran,Ylojarvi,Haveri,2.5,5,fresh,course,quarry,JJ MOD 2,JJ CCR
 08_11_20,15:49,01:19,60.6,21.3,5.6,NA,NA,3,100,Pasi Lammi;Heidi-Maaret Ilomaki;Tommi Saviran,Ylojarvi,Haveri,2.5,8,fresh,course,quarry,JJ MOD 2,JJ CCR
-21_11_20,13:02,01:03,29.0,21.0,5.7,160,130,3,100,Tatu Paivinen,Salo,Illo,2.5,8,fresh,leisure,mine,,JJ CCR
+21_11_20,13:02,01:03,29,21,5.7,160,130,3,100,Tatu Paivinen,Salo,Illo,2.5,8,fresh,leisure,mine,,JJ CCR
 21_11_20,14:49,00:27,29.8,16.6,5.7,130,110,3,100,Tatu Paivinen,Salo,Illo,2.5,8,fresh,leisure,quarry,,JJ CCR
+28_11_20,11:55,01:32,35.1,22,5.7,160,110,3,100,Heidi-Maaret Ilomaki,Ylojarvi,Haveri,2.5,8,fresh,leisure,quarry,,JJ CCR
+28_11_20,15:37,00:52,24.7,13,5.7,110,90,3,100,Heidi-Maaret Ilomaki,Ylojarvi,Haveri,2.5,8,fresh,leisure,quarry,,JJ CCR

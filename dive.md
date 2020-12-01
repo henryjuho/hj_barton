@@ -39,6 +39,7 @@ ___
 
 | Course | Instructor | Agency | Facility | Date |
 |:-------|:----------:|:--------:|:----:|-----:|
+| JJ-CCR MOD 2 | Pasi Lammi | RAID | | November 2020 |
 | JJ-CCR MOD 1 | Pasi Lammi | RAID | | April 2020 |
 | Cave 2 | Garry Dallas | RAID | [Simply Tec and Sidemount](http://www.simplysidemount.com/) | December 2018 |
 | Deco 50 | Garry Dallas | RAID | [Simply Tec and Sidemount](http://www.simplysidemount.com/) | May 2018 |
