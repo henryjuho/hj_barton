@@ -336,3 +336,7 @@ date,time_in,duration,max_depth,avg_depth,temp,start_pres,end_pres,volume,mix,bu
 21_11_20,14:49,00:27,29.8,16.6,5.7,130,110,3,100,Tatu Paivinen,Salo,Illo,2.5,8,fresh,leisure,quarry,,JJ CCR
 28_11_20,11:55,01:32,35.1,22,5.7,160,110,3,100,Heidi-Maaret Ilomaki,Ylojarvi,Haveri,2.5,8,fresh,leisure,quarry,,JJ CCR
 28_11_20,15:37,00:52,24.7,13,5.7,110,90,3,100,Heidi-Maaret Ilomaki,Ylojarvi,Haveri,2.5,8,fresh,leisure,quarry,,JJ CCR
+09_12_20,20:01,01:04,29.1,19.8,5.7,NA,NA,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,10,fresh,training,mine,,JJ CCR
+12_12_20,13:27,01:31,46.7,20.8,5.2,130,70,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,10,fresh,leisure,mine,,JJ CCR
+02_01_21,13:20,01:30,46.3,21.6,5.1,120,50,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,8,fresh,leisure,mine,,JJ CCR
+16_01_21,13:10,01:12,39,22.1,4.5,200,150,3,100,Tatu Paivinen,Salo,Illo,2.5,8,fresh,leisure,mine,,JJ CCR
