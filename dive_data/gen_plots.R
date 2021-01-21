@@ -4,6 +4,7 @@ library(dplyr)
 library(tidyr)
 library(gridExtra)
 library(ggrepel)
+library(ggpattern)
 
 
 setwd('~/hj_barton/dive_data')
@@ -80,6 +81,23 @@ hours_env_config <- ggplot(total_dat, aes(x=environment, y=dec_hours, fill=confi
 
 sac <- ggplot(subset(dive_dat, config!='CCR'), aes(x=config, y=sac)) +
   geom_boxplot() + th + labs(x='\n', y='Surface air consumption (lpm) - OC')
+
+# year summaries
+year_dat <- summarise(group_by(dive_dat, year, environment, config), hours=sum(dec_hours))
+
+year_plot <- ggplot(year_dat, aes(x=as.character(2000+as.numeric(year)), y=hours, fill=environment, alpha=config)) +
+  geom_bar(stat = 'identity', colour='black') +
+  scale_alpha_manual(values=c(1, 0.6)) +
+  scale_fill_viridis(discrete = T) +th +
+  coord_flip()+
+  theme(legend.title=element_blank(), legend.margin = margin(-0.2,0,-0.2,0, unit="cm")) +
+  labs(x='')
+
+png('year_summary.png', width=12, height=3, res=320, units='in')
+
+year_plot
+
+dev.off()
 
 png('dive_summaries.png', width=12, height=6.5, res=320, units='in')
 

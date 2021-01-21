@@ -10,6 +10,8 @@ by all, they sparked my interest in cave diving, and led to me signing up for my
 working towards more technical diving. Something that is still a work in progress and illustrated in the figure
 below. 
 
+![](dive_data/year_summary.png)
+
 ![](dive_data/dive_summaries.png)
 
 
