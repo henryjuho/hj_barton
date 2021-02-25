@@ -1,8 +1,9 @@
 ## Population genetics of Atlantic salmon
 
 I am currently using a mix of whole genome re-sequencing data and forward simulations to address evolutionary and 
-population genetic questions in a population of Atlantic salmon from the Teno/Tana river in North Finland/Norway.
+population genetic questions in a population of Atlantic salmon from the Teno/Tana river in northern Finland/Norway.
 
+<br/>
 
 ## Fitness effects of short insertions and deletions
 
