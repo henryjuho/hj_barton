@@ -9,13 +9,13 @@ population genetic questions in a population of Atlantic salmon from the Teno/Ta
 <img align="right" src="dfe_plot.png" width=400 height="367">
 
 <div style="text-align: justify"> 
-I am interested in the role and impact of short (less than 50bp or so) insertions and deletions (INDELs) in the genome. 
+I am interested in the role and impact of short (<50bp) insertions and deletions (INDELs) in the genome. 
 After single nucleotide polymorphisms (SNPs) INDELs are the next most common source of variation, and thus represent a 
 large amount of material on which selection can act. They are however, often filtered out and excluded in analyses. 
 In my work I leverage the site frequency spectrum (SFS), that is, how variants are distributed with regard to their 
 allele frequencies, to infer the strength of selection acting on INDELs in different contexts and species. For example 
 the figure on the right shows the proportion of strongly deleterious and neutral INDELs in coding regions in 
-<i>Drosophila melanogaster</i> and the great tit.
+<i>Drosophila melanogaster</i> and the great tit.<br/>
 
 </div>
 
