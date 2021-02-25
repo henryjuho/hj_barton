@@ -15,11 +15,14 @@ large amount of material on which selection can act. They are however, often fil
 In my work I leverage the site frequency spectrum (SFS), that is, how variants are distributed with regard to their 
 allele frequencies, to infer the strength of selection acting on INDELs in different contexts and species. For example 
 the figure on the right shows the proportion of strongly deleterious and neutral INDELs in coding regions in 
-*Drosophila melanogaster* and the great tit.
+<i>Drosophila melanogaster</i> and the great tit.
+
 </div>
+
 
 ## GC biased gene conversion
 
+<div style="text-align: justify"> 
 During recombination double stranded breaks occur along the genome. These subsequently need repairing, during this repair
 process any missing sequence is replicated using an existing strand as a template. However, this can generate a stretch
 of DNA where each strand of the molecule comes from a different parental chromosome, this is problematic when this 
@@ -29,5 +32,6 @@ G and C bases and change A and T bases, than the other way round, hence it is re
 (gBGC). Consequently, gBGC elevates the frequencies of GC alleles in the genome in a manner similar to positive selection,
 and can increase the GC content of the genome, particularly in highly recombining regions. In my work I am comparing 
 the strength of gBGC between two birds, the zebra finch and the great tit, and seeing how gBGC varies within their genomes.
+</div>
 
 ![](gt_zf_sketch.png)
