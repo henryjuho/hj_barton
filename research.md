@@ -15,10 +15,10 @@ large amount of material on which selection can act. They are, however, often fi
 In my work I leverage the site frequency spectrum (SFS), that is, the distribution of allele frequencies, to infer the 
 strength of selection acting on INDELs in different contexts and species. For example 
 the figure on the right shows the proportion of strongly deleterious and neutral INDELs in coding regions in 
-<i>Drosophila melanogaster</i> and the great tit.<br/>
-
+<i>Drosophila melanogaster</i> and the great tit.
 </div>
 
+<br/><br/>
 
 ## GC biased gene conversion
 
