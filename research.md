@@ -5,7 +5,7 @@ I am currently...
 
 ## Fitness effects of short insertions and deletions
 
-<img align="right" src="dfe_plot.png" width=300 height="275">
+<img align="right" src="dfe_plot.png" width=400 height="367">
 
 I am interested in the role and impact of short (less than 50bp or so) insertions and deletions (INDELs) in the genome. 
 After single nucleotide polymorphisms (SNPs) INDELs are the next most common source of variation, and thus represent a 

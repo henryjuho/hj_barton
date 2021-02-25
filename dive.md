@@ -1,7 +1,9 @@
 ## Diving summary
 ___
 
+<!---
 ![](dive_data/year_summary.png)
+--->
 
 I started diving in late 2014 whilst on holiday in Singapore. At the time I had just completed my undergraduate degree 
 in Sheffield, throughout which I had cultivated a strong interest in ancient DNA and human evolution. In pursuing this 
