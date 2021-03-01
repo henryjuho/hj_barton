@@ -1,5 +1,7 @@
 ## Population genetics of Atlantic salmon
 
+<img align="left" src="salmon" width=400>
+
 I am currently using a mix of whole genome re-sequencing data and forward simulations to address evolutionary and 
 population genetic questions in a population of Atlantic salmon from the Teno/Tana river in northern Finland/Norway.
 
@@ -7,7 +9,7 @@ population genetic questions in a population of Atlantic salmon from the Teno/Ta
 
 ## Fitness effects of short insertions and deletions
 
-<img align="right" src="dfe_plot.png" width=400 height="367">
+<img align="right" src="dfe_plot.png" width=400 height=367>
 
 <div style="text-align: justify"> 
 I am interested in the impact of short insertions and deletions (INDELs) in the genome. 
