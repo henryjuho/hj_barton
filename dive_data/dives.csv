@@ -340,3 +340,7 @@ date,time_in,duration,max_depth,avg_depth,temp,start_pres,end_pres,volume,mix,bu
 12_12_20,13:27,01:31,46.7,20.8,5.2,130,70,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,10,fresh,leisure,mine,,JJ CCR
 02_01_21,13:20,01:30,46.3,21.6,5.1,120,50,3,100,Heidi-Maaret Ilomaki,Salo,Illo,2.5,8,fresh,leisure,mine,,JJ CCR
 16_01_21,13:10,01:12,39,22.1,4.5,200,150,3,100,Tatu Paivinen,Salo,Illo,2.5,8,fresh,leisure,mine,,JJ CCR
+31_01_21,13:07,00:45,32.1,21.1,3.5,NA,NA,3,100,Maunu,Kaatiala,Kaatiala,2.5,20,fresh,leisure,mine,,JJ CCR
+07_03_21,11:09,01:12,25.4,14,2.5,100,50,3,100,Tatu Paivinen;Henri,Iso-Melkutin,Iso-Melkutin,2.5,15,fresh,leisure,lake,,JJ CCR
+13_03_21,13:11,01:15,21.4,10.1,3,NA,NA,3,100,Heidi-Maaret Ilomaki,Iso-Melkutin,Iso-Melkutin,2.5,20,fresh,training,lake,,JJ CCR
+27_03_21,11:30,01:24,45.8,20.2,4.2,150,110,3,100,Tatu Paivinen,Salo,Illo,2.5,10,fresh,leisure,mine,,JJ CCR
